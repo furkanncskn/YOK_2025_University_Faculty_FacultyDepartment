@@ -1,0 +1,4376 @@
+[
+  {
+    "Id": "e63ed2b0-f1bf-4ba3-8c39-363a8e772464",
+    "Name": "ADA KENT ÜNİVERSİTESİ",
+    "CityId": "KKTC-GAZİMAĞUSA",
+    "Faculties": [
+      {
+        "Id": "347d5cc6-83fe-43fc-b2d6-0ac975d7d63c",
+        "Name": "Diş Hekimliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "15eeb4d9-be29-4a2f-90cd-f47a1dd003d6",
+            "Name": "Diş Hekimliği (%25 İndirimli)"
+          },
+          {
+            "Id": "fab34dbf-35f8-4282-ba34-9e1f7632d183",
+            "Name": "Diş Hekimliği (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "89ac467f-6366-485b-9572-aa87c2dcab37",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "7a8df299-bf7f-4af7-ab6b-a7dbf97dba61",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "dba01944-ab2d-4bd8-ba3f-a08b70200261",
+            "Name": "Hukuk (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "1fd87034-4d27-4f88-932e-e529b8f5f593",
+        "Name": "Eğitim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "d2a5583a-2298-4ab0-9f1d-6865be556a7d",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (%25 İndirimli)"
+          },
+          {
+            "Id": "c7013d58-fb0a-4fa4-8c08-50dd879d0128",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "9a5ca3ee-a495-4edc-93f5-2fb4ac106a37",
+        "Name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "27e02a3d-94b7-4f7b-93b1-22347588dd76",
+            "Name": "Psikoloji (%25 İndirimli)"
+          },
+          {
+            "Id": "f370482c-0830-4a39-ab2e-7fbb831e3f44",
+            "Name": "Psikoloji (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "4d448da5-aeb1-45e9-a7f4-82a2562d866b",
+        "Name": "Mühendislik ve Mimarlık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "02194440-0f26-40ff-aaee-d4d0ae4f09a6",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%25 İndirimli)"
+          },
+          {
+            "Id": "549fd40e-f7b6-4533-968c-1304125b6d0f",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d21a0985-0513-4468-af8a-63fd5c187eed",
+    "Name": "AKDENİZ KARPAZ ÜNİVERSİTESİ",
+    "CityId": "KKTC-LEFKOŞA",
+    "Faculties": [
+      {
+        "Id": "0652d89c-4837-4421-aac8-a9b0b5921736",
+        "Name": "İşletme Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "53b427bd-f5d5-43cc-8dc6-25d62bcf9c57",
+            "Name": "Havacılık Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "18a8e9be-d6d9-4fe0-86bd-bf8b27b713b6",
+            "Name": "Havacılık Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7756a67a-9444-4750-a016-c54753861c7a",
+            "Name": "Havacılık Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "eb452bff-1a57-46d6-94b5-288d809eb833",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "51454608-aadd-405e-baba-e9a79b65ab58",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "57f5dda7-17fd-43eb-a825-8ff6c5b3b8a8",
+            "Name": "İşletme (İngilizce) (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e8a0f191-1866-4cf1-b449-a83b4232dda7",
+    "Name": "ARKIN YARATICI SANATLAR VE TASARIM ÜNİVERSİTESİ",
+    "CityId": "KKTC-GİRNE",
+    "Faculties": [
+      {
+        "Id": "6305b279-e4b8-4990-aa89-c10ed1f396af",
+        "Name": "Sanat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "1e454f6d-0a85-4cea-b490-dafe116e0f87",
+            "Name": "Arkeoloji (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "561cdb55-eca9-44e6-a67b-68af8be03210",
+            "Name": "Arkeoloji (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "eb006f47-5b55-4d67-9457-f921a4428865",
+            "Name": "Arkeoloji (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "95a19fb0-047e-4ab5-b8c7-475e89f41901",
+            "Name": "Film Tasarımı ve Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "780d2d9f-c3f0-4822-b5b0-902e2e89b3ff",
+            "Name": "Film Tasarımı ve Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "353872b7-f5d8-4fbf-bf9d-16d2d6a68888",
+            "Name": "Film Tasarımı ve Yönetimi (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "62e940ff-4e48-4878-8189-6172356ac407",
+        "Name": "İletişim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "be0fda74-e07e-4c57-a609-849d9972d6ac",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8716cc3b-0e77-437c-9751-e563b5eb03a5",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7aed2130-5ba3-4b53-b644-2178748c77c3",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "e27d2eb1-7c19-4743-9c7f-7a71f44b2b64",
+            "Name": "Görsel İletişim Tasarımı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "887db7f3-6de6-4bad-ac51-9bfd152fa9a6",
+            "Name": "Görsel İletişim Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "1c14285b-536a-4543-9787-b79be1e5b83e",
+            "Name": "Görsel İletişim Tasarımı (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "0e4a47b1-0154-4848-aedf-f51158e75722",
+            "Name": "Yeni Medya ve İletişim (%50 İndirimli)"
+          },
+          {
+            "Id": "9ad1bbb4-a19c-4780-bc3d-f101ee8da01f",
+            "Name": "Yeni Medya ve İletişim (Burslu)"
+          },
+          {
+            "Id": "662997fb-2d0b-4d18-987c-f569b020c9fb",
+            "Name": "Yeni Medya ve İletişim (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "a51821a8-be45-45b8-a1e3-1d2c657ea27e",
+        "Name": "Tasarım Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "02b66305-f9b4-406d-a248-a30d92011a3d",
+            "Name": "Endüstriyel Tasarım (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e279b365-b15a-4b5a-a992-bbd43c7164ad",
+            "Name": "Endüstriyel Tasarım (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5d611b11-b124-456c-a999-6c454930968d",
+            "Name": "Endüstriyel Tasarım (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "210384c1-fce5-4f17-a3c8-84f49e55899d",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "6b92915e-6da3-4d85-aed4-78af2da5ff01",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7a3c7d75-2dc8-4f59-83b1-470810732256",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "06b3105d-8442-4da0-a37f-1daf28b024e2",
+            "Name": "Kentsel Tasarım ve Peyzaj Mimarlığı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8f878824-008e-4ea2-977b-0a4aab212466",
+            "Name": "Kentsel Tasarım ve Peyzaj Mimarlığı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "d47df73a-96da-4b4b-bdc6-f25b15748957",
+            "Name": "Kentsel Tasarım ve Peyzaj Mimarlığı (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "839d2c22-ba35-4e89-b8e7-da6f02460657",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "c3acce41-4062-4d68-9e24-b3aef730c16a",
+    "Name": "BAHÇEŞEHİR KIBRIS ÜNİVERSİTESİ",
+    "CityId": "KKTC-LEFKOŞA",
+    "Faculties": [
+      {
+        "Id": "be6d06d0-6ba6-46b7-8adb-97fe09023bb0",
+        "Name": "Mimarlık ve Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "d9440ff7-6477-40df-90b0-c9780e9370cf",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2d33a535-05d4-4759-8673-da47c479cf9e",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "16b02e74-4806-4edf-8aac-7c9a3b83d6e3",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "9fc39674-3ec4-47b8-99c5-1c6998f3bd91",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2098f10f-a073-44b9-8b51-4e1c1511ec9d",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "01a15066-4cd4-4f48-a644-ee7d448d6327",
+        "Name": "Turizm Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "25a866cb-f4f6-48b3-ae06-c86c4caf1715",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "43c29c94-53e9-4e79-bc23-0f41c226f34d",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "8fff457f-b5a8-4091-b732-ff817780385c",
+        "Name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "28335844-66ce-4882-8771-2279038f1c7d",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "44d0ac15-bbc6-4bce-9c8c-a996331c06ef",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "1d04bd70-7927-41ca-9826-4027ac83ec30",
+            "Name": "İşletme (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "0a426989-60cf-48fa-b541-e51d2f929bb4",
+            "Name": "Psikoloji (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "fa7a1782-f8e4-474b-9c88-9e55e51a0c28",
+            "Name": "Psikoloji (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "fcf8243e-eece-4d22-b40b-3708701cd8db",
+            "Name": "Psikoloji (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "90105485-b11a-445b-a4ca-d5b479bc611c",
+            "Name": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "39ba7c29-7102-472f-9bb9-86412399d9b5",
+            "Name": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "16af9092-91c2-494f-b70d-06a043b7558f",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "fb1a7580-5581-4397-81c0-ef4fb18e723c",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "da4e3af2-54fc-40f2-9afe-7f365aff4a31",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "7ddd6c0c-224b-495d-83fe-3cc63f50994f",
+    "Name": "DOĞU AKDENİZ ÜNİVERSİTESİ",
+    "CityId": "KKTC-GAZİMAĞUSA",
+    "Faculties": [
+      {
+        "Id": "68914684-afcc-4db5-9104-796e9d1f91fc",
+        "Name": "Fen ve Edebiyat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "c8c35cfd-d6cb-4f60-8994-31060a551128",
+            "Name": "Aktüerya Bilimleri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "601a7302-2355-4e6a-beba-7b3bbad7d22e",
+            "Name": "Aktüerya Bilimleri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4c8a7a62-18c4-465d-9a64-6c2db75b1ea1",
+            "Name": "Aktüerya Bilimleri (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "673629eb-615a-4b86-8e52-38110f8ff525",
+            "Name": "Fizik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5ca2495d-38db-418d-a8d5-1ec6b75ca186",
+            "Name": "Fizik (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "dd4f5af0-2641-431e-8b9f-61361fc3e0df",
+            "Name": "İngilizce Mütercim ve Tercümanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "8200d15d-44be-4998-a4c3-6d0a0b192b5f",
+            "Name": "İngilizce Mütercim ve Tercümanlık (Burslu)"
+          },
+          {
+            "Id": "13292514-e1dc-48ad-9282-333125d50974",
+            "Name": "İngilizce Mütercim ve Tercümanlık (Ücretli)"
+          },
+          {
+            "Id": "fd0cd36b-6049-40fa-aea7-743cfdf6de67",
+            "Name": "İstatistik ve Bilgisayar Bilimleri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "448ba9d3-8521-4470-86db-817730f1c567",
+            "Name": "İstatistik ve Bilgisayar Bilimleri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4d5d3262-36e7-42a4-9777-82276c073102",
+            "Name": "İstatistik ve Bilgisayar Bilimleri (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "558fd0a7-7070-49ce-815e-a1cda97e15ce",
+            "Name": "Kimya (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "65648146-7fb9-4a48-8095-ef20a9d5957e",
+            "Name": "Kimya (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "38e0704b-7b45-40ac-a183-fd79d7bd2e9d",
+            "Name": "Matematik ve Bilgisayar Bilimleri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f17f810b-7357-462d-b5e4-fce7f729f166",
+            "Name": "Matematik ve Bilgisayar Bilimleri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "faa19031-80e7-4ecf-b969-6d481b42981a",
+            "Name": "Matematik ve Bilgisayar Bilimleri (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "d319f221-93b6-45d3-ba67-3c4002989ae5",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "a15614d0-a924-4e34-8a62-514ca3599709",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "fda19884-baeb-4d24-b445-01dcdf9ef314",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "17a11fc2-b127-455c-8165-31b03a56488e",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "b7251fe3-77b4-4768-b291-8e7e25bd563e",
+            "Name": "Psikoloji (Burslu)"
+          },
+          {
+            "Id": "495bc082-7527-4221-9557-cc00b383aad9",
+            "Name": "Psikoloji (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "870120be-6368-47ec-a4ef-c905dccff916",
+            "Name": "Psikoloji (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "242a7002-f3f3-4203-8f41-f64a584a4c6c",
+            "Name": "Psikoloji (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "76c1814f-aa11-4b28-8ea1-5c4fdaa726f4",
+            "Name": "Psikoloji (Ücretli)"
+          },
+          {
+            "Id": "429b3f9b-3fdb-4332-af29-60d284941022",
+            "Name": "Türk Dili ve Edebiyatı (Burslu)"
+          },
+          {
+            "Id": "75742ef4-1a9d-4de4-88e3-24a63889e3d4",
+            "Name": "Türk Dili ve Edebiyatı (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "eb3adae6-2ddc-4a15-9f12-729eb32b697c",
+        "Name": "İşletme ve Ekonomi Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "fbc56ca4-4ddd-44b6-b840-b2f93a90700d",
+            "Name": "Bankacılık ve Sigortacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "0a280967-a3a6-48d7-9a00-29e4f09e4b02",
+            "Name": "Bankacılık ve Sigortacılık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "9fadb33b-855c-495e-a895-661d1d3563c8",
+            "Name": "Finans ve Bankacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "92300120-cc10-484a-a847-72a3007a56f1",
+            "Name": "Finans ve Bankacılık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "6ff71177-817e-482d-bbee-6a2cc67d4c02",
+            "Name": "İktisat (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "237fc0c2-b859-4125-b618-04651fdfc812",
+            "Name": "İktisat (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "ac8acd73-b236-4b62-96ca-741b912b25c3",
+            "Name": "İnsan Kaynakları Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4eff64bc-7dc7-4ecf-9e43-8769f5a8f153",
+            "Name": "İnsan Kaynakları Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "7753d01d-3286-4a62-8060-1aee2c5e600d",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "311eb408-0e04-431b-a67a-b0651fcb521b",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4fc4b457-6363-45b3-ad32-6db16dff626c",
+            "Name": "İşletme (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "948bac14-2487-40e3-b8e2-7f2529848734",
+            "Name": "Kamu Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "2657caa3-6458-4543-8c46-b1706f7a072f",
+            "Name": "Kamu Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "edafa859-716c-43bf-b480-56a16aa7387c",
+            "Name": "Muhasebe ve Finans Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "3f42ed23-f81a-499c-8e24-a3b7efe12d7b",
+            "Name": "Muhasebe ve Finans Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "44ad27db-3f4f-4b83-bf53-1598acc8dd74",
+            "Name": "Pazarlama (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "0ccdcccb-9ec2-4621-a532-34db4bb52088",
+            "Name": "Pazarlama (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "42f1afc2-cfb8-40c7-8896-0530305506c2",
+            "Name": "Siyaset Bilimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "ba2b48c6-80f4-41b6-bfe2-9adc980b8a7d",
+            "Name": "Siyaset Bilimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "b6c82868-8371-43d2-ba6c-fce5daa7726b",
+            "Name": "Uluslararası Finans ve Bankacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "565d21b2-f6dc-45eb-b505-7acec5122199",
+            "Name": "Uluslararası Finans ve Bankacılık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "82176748-df1f-422c-991d-7776ce6b98fb",
+            "Name": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "bf7a29f3-feca-4da2-9dad-d3fa961b2269",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "fbed36d2-5f0a-4d7a-b0c3-8bc8bf00e7d8",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "02fd05f3-41e8-4487-80fa-ff9a86379ade",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (%50 İndirimli)"
+          },
+          {
+            "Id": "ea947926-bcf1-4157-b131-b4b8206c8dae",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (Burslu)"
+          },
+          {
+            "Id": "60281981-9deb-4695-9c9d-984a30a316c6",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8348c685-69d8-4529-8d7f-1dda2ca76dea",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "918f2b01-f15e-4fda-8408-c051d1b5d327",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "efc12c9f-1ce5-477e-b8e7-89119c39f463",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (Ücretli)"
+          },
+          {
+            "Id": "7f04f87d-1af4-45d1-b989-d29a0873ee9d",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "057aded5-cba5-4dea-928f-66242f68d633",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "403636bf-033e-48d7-8bb8-243e54f947c4",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "91f53754-56cd-4672-a41f-c97f48512794",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "2f0e54ef-275c-4563-adcb-9e61d15ed965",
+            "Name": "Beslenme ve Diyetetik (%50 İndirimli)"
+          },
+          {
+            "Id": "a3546eff-3894-4073-87dd-2d21416d95b8",
+            "Name": "Beslenme ve Diyetetik (Burslu)"
+          },
+          {
+            "Id": "03c094cc-8f6d-430f-b739-6391208dcc5a",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e15d1560-6297-4345-9f50-37083fdea817",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "c80678a8-d91c-4bc9-a247-305ab3d02282",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "0605e568-07ab-4f46-8aef-5276c72dd498",
+            "Name": "Beslenme ve Diyetetik (Ücretli)"
+          },
+          {
+            "Id": "b37fc0bd-ef47-422a-a3d0-1e827c5338ef",
+            "Name": "Egzersiz ve Spor Bilimleri (%50 İndirimli)"
+          },
+          {
+            "Id": "c2983ca2-11a9-4dfc-89f0-e641ee813ebd",
+            "Name": "Egzersiz ve Spor Bilimleri (Burslu)"
+          },
+          {
+            "Id": "f73f10ce-92de-4a7e-aac5-738ff3b01c47",
+            "Name": "Egzersiz ve Spor Bilimleri (Ücretli)"
+          },
+          {
+            "Id": "4edd9dc7-905d-43fb-8711-f1ef84ba7755",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "1d49740f-e083-4f8d-878f-27284720b24e",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          },
+          {
+            "Id": "142cc47b-2ad9-47d5-9502-1c1b9398fd6d",
+            "Name": "Fizyoterapi ve Rehabilitasyon (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "17908b43-cc57-4f8e-b6ec-69f285b90274",
+            "Name": "Fizyoterapi ve Rehabilitasyon (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "c5c90952-36d4-479c-95c2-e69bd0644910",
+            "Name": "Fizyoterapi ve Rehabilitasyon (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "13c1e831-e190-4876-9c37-1faea0f79abc",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Ücretli)"
+          },
+          {
+            "Id": "3fd8c399-a170-421d-809b-d9e15232c339",
+            "Name": "Hemşirelik (%50 İndirimli)"
+          },
+          {
+            "Id": "6ebea697-ea7e-424e-a216-3704ab8631cb",
+            "Name": "Hemşirelik (Burslu)"
+          },
+          {
+            "Id": "f9738db3-52bb-436c-8804-c4511b4da64d",
+            "Name": "Hemşirelik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ed0de00f-6194-455c-a13a-b21e457811c5",
+            "Name": "Hemşirelik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "766efd31-e9fe-4d6f-8191-1582eafb1252",
+            "Name": "Hemşirelik (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "951ff621-4fa8-4c43-a733-3b3f9f07fb02",
+            "Name": "Hemşirelik (Ücretli)"
+          },
+          {
+            "Id": "564aefac-fb71-4189-9716-1a6a8ccda30f",
+            "Name": "Sağlık Yönetimi (%50 İndirimli)"
+          },
+          {
+            "Id": "24c57bc1-b1a3-4d89-9ff1-c03295787be6",
+            "Name": "Sağlık Yönetimi (Burslu)"
+          },
+          {
+            "Id": "825a3de4-2450-49c8-82f5-cb8f44535d33",
+            "Name": "Sağlık Yönetimi (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "fc4d5e6b-30f2-47c0-a8f6-a0b6884711ad",
+        "Name": "Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "ad398b6a-a33c-4a65-90a8-479af9f188c6",
+            "Name": "Bilgisayar Mühendisliği (%50 İndirimli)"
+          },
+          {
+            "Id": "b8ed0f98-481a-4125-8a8d-c488f2acdbab",
+            "Name": "Bilgisayar Mühendisliği (Burslu)"
+          },
+          {
+            "Id": "f7a3b13d-3b66-45de-beed-22b351b955b2",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "7d139b54-8e4d-40b1-b535-9a0d98b0667c",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a4d5cf2b-cdb6-48f0-9b2c-6a6e505872e8",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "837d67d4-ac1a-46b4-b77e-391002b927fa",
+            "Name": "Bilgisayar Mühendisliği (Ücretli)"
+          },
+          {
+            "Id": "c0c6a9ec-e64d-425b-ba6a-d88fcdf3b577",
+            "Name": "Bilişim Sistemleri Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "43f3628b-7023-4450-a67f-e3653fcb1c7b",
+            "Name": "Bilişim Sistemleri Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "e1b066d6-ffec-455e-8303-42a0e408fc30",
+            "Name": "Bilişim Sistemleri Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "3945b633-865f-415a-b28f-4517e38e90bd",
+            "Name": "Biyomedikal Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "64488633-f58a-4212-9e8e-d7e888ce9b90",
+            "Name": "Biyomedikal Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "d92b59e7-96ca-436f-871c-c6c40c458cbe",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "4b129a47-afdc-40ea-8ebe-b8cac9113ef4",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "85283278-2649-429b-8f0d-3ee686964cdc",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "5c634616-92a6-4661-9f78-0ee24ab3241d",
+            "Name": "Elektronik ve Haberleşme Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "da6b1733-91c0-4d88-9b74-8e42f29cd543",
+            "Name": "Elektronik ve Haberleşme Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "0257db17-060f-4e6a-9af0-d10a290ad080",
+            "Name": "Endüstri Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "69cbffcf-d79e-483a-9a34-fccfa159f369",
+            "Name": "Endüstri Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "79cfcf97-043f-40e0-9777-64bdbc43981d",
+            "Name": "Endüstri Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "7fa23847-014f-426a-8304-87d524403bc6",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7f901332-bbaa-404a-b965-8b056a4a1055",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "c4cd2a96-2443-47f6-a523-c1f128f266a3",
+            "Name": "İşletme Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5deb927b-f331-4fff-a75d-0854e7af1960",
+            "Name": "İşletme Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "6d6c6e59-f0b8-464f-b470-43dd886ef924",
+            "Name": "Makine Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "4a5a2111-5d03-4ef6-8d38-c16494993e2e",
+            "Name": "Makine Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "446e4f53-f846-46be-97af-12e42ea31574",
+            "Name": "Makine Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "ae3e9e56-32c7-45f5-a2a6-dd0b550554de",
+            "Name": "Mekatronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "4b7389eb-fae6-449b-bfb1-02e72c4679fc",
+            "Name": "Mekatronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "749c91cb-4db4-43cb-adf8-f7bc18bed00f",
+            "Name": "Mekatronik Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "4f305c80-cc8e-450b-b1e0-321a8b0ba55f",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "0b0dd011-6f4a-412c-af0a-650cff80ac07",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "b4febb24-d8ef-409f-9812-afc013459748",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "ae7d9544-ffef-4a4c-b41d-6a288f208c68",
+        "Name": "Eğitim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "55936f4e-ebf3-450a-a287-8a0418692d32",
+            "Name": "Bilgisayar ve Öğretim Teknolojileri Öğretmenliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "2ccc0f02-619d-46c7-a76b-b047e8aecb37",
+            "Name": "İlköğretim Matematik Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "4f26197b-bc9b-4bfe-9b0b-b7184c04c44e",
+            "Name": "İlköğretim Matematik Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "8861cfd2-df3f-4cfa-9213-ab8e4cde5b97",
+            "Name": "İlköğretim Matematik Öğretmenliği (Ücretli)"
+          },
+          {
+            "Id": "3bab3539-56ee-4f12-922a-5e1b819abacd",
+            "Name": "İngilizce Öğretmenliği-Elt (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "c291aec6-3549-4e52-892f-c58ef02bcc70",
+            "Name": "İngilizce Öğretmenliği-Elt (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "974dc1ff-01f7-4023-a341-a56d0f77d28d",
+            "Name": "İngilizce Öğretmenliği-Elt (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "2c945ea5-0486-4427-b957-cb89feb645d9",
+            "Name": "Okul Öncesi Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "b6cbeb6e-1e22-4b62-a987-e42e6e91f816",
+            "Name": "Okul Öncesi Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "39c1fc3b-614f-4d4d-9627-ad800466145d",
+            "Name": "Okul Öncesi Öğretmenliği (Ücretli)"
+          },
+          {
+            "Id": "533d1099-e4ca-4237-adf8-8d60df19291d",
+            "Name": "Özel Eğitim Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "7ea55222-88fb-4af8-9728-8cea64599c09",
+            "Name": "Özel Eğitim Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "ac954cec-0fca-4ab8-b7ce-1722a6272462",
+            "Name": "Özel Eğitim Öğretmenliği (Ücretli)"
+          },
+          {
+            "Id": "49e22e34-3dd5-42e2-9938-e0ae33d2566d",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "5837ed16-8111-4435-8af3-5929402c5c24",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Burslu)"
+          },
+          {
+            "Id": "ae163696-a41c-4b9d-905b-8bb51d7f5980",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Ücretli)"
+          },
+          {
+            "Id": "56359094-4861-489f-b628-bbba2a80a82a",
+            "Name": "Sınıf Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "be9e2414-817b-4f07-9805-5ba3c7479f4a",
+            "Name": "Sınıf Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "c499dfbd-ca70-4c5b-8138-d861184fa745",
+            "Name": "Sınıf Öğretmenliği (Ücretli)"
+          },
+          {
+            "Id": "a6ea0aab-4830-441a-9acb-0a2303877614",
+            "Name": "Türkçe Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "aab3b806-a4ac-4198-878f-267482df3fd4",
+            "Name": "Türkçe Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "b2a8ff43-3700-4bd9-ab2d-b5f43607e406",
+            "Name": "Türkçe Öğretmenliği (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "7d1b6ca6-13c6-4839-84b8-78e3ed797f6b",
+        "Name": "Bilgisayar ve Teknoloji Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "642aad04-66ad-471e-b3b5-ec5bd1e47a62",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (%50 İndirimli)"
+          },
+          {
+            "Id": "178ce3c2-9f7d-4b02-a3d0-704142aac779",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (Burslu)"
+          },
+          {
+            "Id": "8a7aecdf-5277-47a1-b4fc-7f9da022aa05",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "0c9cb199-d30c-49a7-9e67-5522e545ff22",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "96315e82-7d68-4fb8-a320-14393d98a8e2",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "b38ca89b-75c1-48a6-985b-c314c436312e",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "0803927d-9975-4fbc-b6e2-6647a9ba6de5",
+        "Name": "İletişim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "652fca99-a82c-43f9-9dcd-0c3d40ece6d5",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "a64192a5-0581-4b93-a946-1838ec3a3ec6",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "391eda42-0b57-414e-a275-0f669c62cc3d",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "c797f560-f344-4d6b-a413-9a05058f1509",
+            "Name": "Görsel İletişim Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a491f987-6cce-4ae4-9aa5-a79a14dcc569",
+            "Name": "Görsel İletişim Tasarımı (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "6d783201-123c-4ca8-9cb5-0d380c09cff9",
+            "Name": "Halkla İlişkiler ve Reklamcılık (Burslu)"
+          },
+          {
+            "Id": "22521ce1-763d-4e23-aab2-a2d190790b46",
+            "Name": "Halkla İlişkiler ve Reklamcılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "9866feee-481c-4f9f-933c-4bff08b26c13",
+            "Name": "Halkla İlişkiler ve Reklamcılık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "5bb72809-8dd4-4518-874f-9019c8fbbff4",
+            "Name": "Halkla İlişkiler ve Reklamcılık (Ücretli)"
+          },
+          {
+            "Id": "aba662ac-9c7f-4f48-8642-039ddf153134",
+            "Name": "Radyo, Televizyon ve Sinema (Burslu)"
+          },
+          {
+            "Id": "9dd3cea3-155e-4dfe-a5d6-fa7b8a507b5e",
+            "Name": "Radyo, Televizyon ve Sinema (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "6b8555e9-1b9b-4c6b-b47c-815110cf1f7f",
+            "Name": "Radyo, Televizyon ve Sinema (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "e0a6f412-50c0-4a26-a1c8-216f151c7f4d",
+            "Name": "Radyo, Televizyon ve Sinema (Ücretli)"
+          },
+          {
+            "Id": "af71e1c8-0be4-4128-8dcf-56da4373e9a6",
+            "Name": "Yeni Medya ve İletişim (Burslu)"
+          },
+          {
+            "Id": "d36ae01f-8179-41e8-9d4d-3553198b3a90",
+            "Name": "Yeni Medya ve İletişim (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "d8adc56e-90a8-4089-a626-8737c673c0a8",
+            "Name": "Yeni Medya ve İletişim (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "064e54fc-4e4e-4730-a1e7-510fa2c5d2d1",
+            "Name": "Yeni Medya ve İletişim (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "0d6c6e67-636d-419e-8697-2df8e266e331",
+        "Name": "Diş Hekimliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "722f91e6-cacc-47d5-8329-203d6f94bb75",
+            "Name": "Diş Hekimliği (UOLP-Sağlık Bilimleri Üniversitesi) (%50 İndirimli)"
+          },
+          {
+            "Id": "e5ce4865-75fa-4d39-b80c-4274168a8433",
+            "Name": "Diş Hekimliği (UOLP-Sağlık Bilimleri Üniversitesi) (Burslu)"
+          },
+          {
+            "Id": "bb486e99-624c-4e19-9505-92758f3c0ccd",
+            "Name": "Diş Hekimliği (UOLP-Sağlık Bilimleri Üniversitesi) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "85669de2-c31a-49ad-9ee9-9fbe50682718",
+        "Name": "Eczacılık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "57cda786-432a-46ad-b8fb-f9ef8d4e3fff",
+            "Name": "Eczacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "43e4102f-7de4-4b0c-8e39-c54e52105233",
+            "Name": "Eczacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "f9cf5c62-f166-42b8-a01a-8d956f904d46",
+            "Name": "Eczacılık (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "81e2c8aa-33b6-4429-a9f2-b9b920b2862f",
+        "Name": "Turizm Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "1907a41f-c32b-4327-a609-285c1e68af4c",
+            "Name": "Gastronomi ve Mutfak Sanatları (%50 İndirimli)"
+          },
+          {
+            "Id": "d04a9b70-fabc-4e46-b83d-016f158b8da0",
+            "Name": "Gastronomi ve Mutfak Sanatları (Burslu)"
+          },
+          {
+            "Id": "211f15df-87ad-4cdf-b1a0-f3ac1e17c515",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "bc952cd8-e149-480f-8949-e1f1a1f60b6c",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "fae320d7-c881-405b-89be-fbad74224e39",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "9d4e2de2-9116-4f6f-af16-b817c3cc3bc7",
+            "Name": "Gastronomi ve Mutfak Sanatları (Ücretli)"
+          },
+          {
+            "Id": "f6b1fbe5-99e8-45be-bd57-bbdf3588bf14",
+            "Name": "Turizm İşletmeciliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "07106fee-f3e6-4539-8efa-259bc2995f99",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "446ee706-5a55-4b6c-a416-5c2429014747",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "c32ac65f-ec0c-456b-b330-6a8c55309504",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "250f29f6-2183-4bd3-8498-42a0001b518a",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "b8946e8b-deef-4f5e-8dbe-965303bed373",
+            "Name": "Hukuk (Burslu)"
+          },
+          {
+            "Id": "0109c667-a502-4aa9-b851-fa7d409d3520",
+            "Name": "Hukuk (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "8c11404e-67a9-41cf-b532-115104c91ca8",
+        "Name": "Mimarlık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "97eb5f3e-cb85-4633-9098-5aac89ca4a7f",
+            "Name": "İç Mimarlık (%50 İndirimli)"
+          },
+          {
+            "Id": "051d52f1-1a78-4765-b9a0-2d8a09ab2b65",
+            "Name": "İç Mimarlık (Burslu)"
+          },
+          {
+            "Id": "e3134005-81b7-4fb2-834b-cb7b7a63479a",
+            "Name": "İç Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f7a8e7cf-92f0-4432-b2f5-a424c23c6e75",
+            "Name": "İç Mimarlık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "6e2497f6-f455-4abc-8425-5f15e098e3dd",
+            "Name": "İç Mimarlık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "caa8e868-4e1b-4618-a363-a3123b2db098",
+            "Name": "İç Mimarlık (Ücretli)"
+          },
+          {
+            "Id": "99c1251e-dd04-4913-bef9-f46db89716ca",
+            "Name": "Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "89fcf365-1258-4b9e-9c66-37ef3933cd15",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "de90e008-8443-43b3-ac56-da76cbb8b093",
+            "Name": "Mimarlık (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "93ac5553-0a1b-4077-a900-f2b361cde453",
+        "Name": "Tıp Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "89d28943-7c31-415e-8ce1-5ecbb3a02aa9",
+            "Name": "Tıp (İngilizce) (UOLP-Marmara Üniversitesi) (%50 İndirimli)"
+          },
+          {
+            "Id": "111a7464-ee8d-49fa-b706-686a79b7e79c",
+            "Name": "Tıp (İngilizce) (UOLP-Marmara Üniversitesi) (Burslu)"
+          },
+          {
+            "Id": "3676b870-cd06-4c25-ae01-0cdd038bb353",
+            "Name": "Tıp (İngilizce) (UOLP-Marmara Üniversitesi) (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "9eea2ebc-452b-4fe1-a5a7-c95ba68334b4",
+    "Name": "GİRNE AMERİKAN ÜNİVERSİTESİ",
+    "CityId": "KKTC-GİRNE",
+    "Faculties": [
+      {
+        "Id": "4582ed47-3204-4da7-b3d6-e89d9968e425",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "151db590-51a3-4b57-bed1-ff022633e4a0",
+            "Name": "Acil Yardım ve Afet Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "d7774fff-627a-4e6a-930d-20ffcf991dd3",
+            "Name": "Acil Yardım ve Afet Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "e2a5b3f0-8ed3-4655-83f5-95625f20d98d",
+            "Name": "Acil Yardım ve Afet Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "27a11144-1d2e-40ea-9eff-87eb15b6cfc4",
+            "Name": "Ergoterapi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "9804ef9e-f7a4-4e03-beb0-53fde4f355a6",
+            "Name": "Ergoterapi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "53781fd9-2fa9-47fb-8958-0f9a92b67b21",
+            "Name": "Ergoterapi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "1300bb50-3471-48e1-83cc-4dc5994a8207",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "c379f79a-6486-44d9-8bef-63647b8015cf",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          },
+          {
+            "Id": "cc9ed8da-ac1e-47b0-a82a-b4861e2f39e1",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Ücretli)"
+          },
+          {
+            "Id": "5a95ed30-1d6a-46b1-9492-31e5bd9b71aa",
+            "Name": "Sağlık Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "77536106-0e3a-4543-9852-88aa419ea154",
+            "Name": "Sağlık Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7fd33db5-6c31-4246-a54d-543eb402de7d",
+            "Name": "Sağlık Yönetimi (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "967e49fb-330b-4663-90a6-70d59b208c3c",
+        "Name": "Beşeri Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "25091ddc-d406-4a0f-81fa-6c67440b5c98",
+            "Name": "Amerikan Kültürü ve Edebiyatı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2c01c3f7-b388-4b9d-8c09-8dd9e15425dc",
+            "Name": "Amerikan Kültürü ve Edebiyatı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7515a919-39cb-423f-94c5-179da4cd264c",
+            "Name": "Amerikan Kültürü ve Edebiyatı (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "3bdbcefe-55dd-4291-9d05-7a0977963712",
+            "Name": "Çin Dili ve Edebiyatı (%50 İndirimli)"
+          },
+          {
+            "Id": "a7c5a3e7-b124-47e3-a35a-d8a7262dbe82",
+            "Name": "Çin Dili ve Edebiyatı (Burslu)"
+          },
+          {
+            "Id": "5f2567fd-64b5-4cdd-95f4-9c5a353f8c79",
+            "Name": "Çin Dili ve Edebiyatı (Ücretli)"
+          },
+          {
+            "Id": "a8ec6229-b7f8-4845-a218-b936b4319bcb",
+            "Name": "İngiliz Dili ve Edebiyatı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "77cfd92c-7680-4439-85c1-5a559459ea16",
+            "Name": "İngiliz Dili ve Edebiyatı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "17fbbfff-2126-41ab-b3aa-88b4d2d3e910",
+            "Name": "İngiliz Dili ve Edebiyatı (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "979e5b73-5a94-411c-8377-3052afc319e9",
+            "Name": "İngilizce Mütercim ve Tercümanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "d16521d2-3efe-4257-b87c-1ff5309000d8",
+            "Name": "İngilizce Mütercim ve Tercümanlık (Burslu)"
+          },
+          {
+            "Id": "dea7a163-ebf6-40ce-80d9-9eb611ae5df2",
+            "Name": "İngilizce Mütercim ve Tercümanlık (Ücretli)"
+          },
+          {
+            "Id": "ff9e37d2-2e34-41f9-bb49-bc1e05bf9717",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "e21918ba-2019-4fa9-9fc2-067c13e160be",
+            "Name": "Psikoloji (Burslu)"
+          },
+          {
+            "Id": "6f7a18ef-122b-4f02-bc65-2ef465b07cea",
+            "Name": "Psikoloji (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "fc479ea8-ab1c-499a-83a3-77b53b152f1c",
+            "Name": "Psikoloji (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "059207e0-1368-44df-9e81-e3a4a548eab1",
+            "Name": "Psikoloji (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "4d07650b-2dc3-4334-b258-672053bd094f",
+            "Name": "Psikoloji (Ücretli)"
+          },
+          {
+            "Id": "f5569faa-1883-407f-9053-ccc0910b0f96",
+            "Name": "Türk Dili ve Edebiyatı (%50 İndirimli)"
+          },
+          {
+            "Id": "c930352a-79ec-4398-81b3-38427622b2b4",
+            "Name": "Türk Dili ve Edebiyatı (Burslu)"
+          },
+          {
+            "Id": "91c8ed5c-ee3b-42d6-8168-69e5947369bc",
+            "Name": "Türk Dili ve Edebiyatı (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "1e67e126-e5e5-4a8e-99aa-149a454a884f",
+        "Name": "İletişim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "98528fa9-ce97-48b1-bc62-60c4ea6707da",
+            "Name": "Basın ve Yayın (%50 İndirimli)"
+          },
+          {
+            "Id": "c6f40828-8c2b-4001-b1d0-f82a06a4ced0",
+            "Name": "Basın ve Yayın (Burslu)"
+          },
+          {
+            "Id": "d7b112ef-9400-48d3-b52f-fd3587834a76",
+            "Name": "Basın ve Yayın (Ücretli)"
+          },
+          {
+            "Id": "1c09c251-378d-445d-a1ce-9ed47b04a348",
+            "Name": "Halkla İlişkiler ve Tanıtım (%50 İndirimli)"
+          },
+          {
+            "Id": "a61eb0a1-e938-4f0e-a347-148c1e4a65ac",
+            "Name": "Halkla İlişkiler ve Tanıtım (Burslu)"
+          },
+          {
+            "Id": "3c5e4efa-ed59-43d4-acad-5660958a3cab",
+            "Name": "Halkla İlişkiler ve Tanıtım (Ücretli)"
+          },
+          {
+            "Id": "74544cf2-410f-4f31-9e53-3d167960a3a9",
+            "Name": "Radyo, Televizyon ve Sinema (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "af098461-c2e1-4c1e-a186-13bd76265863",
+            "Name": "Radyo, Televizyon ve Sinema (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a2fcbd3e-f487-4211-917b-0f0bf890694a",
+            "Name": "Radyo, Televizyon ve Sinema (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "dc34929f-3e38-4a0b-9032-347d888c30b8",
+            "Name": "Yeni Medya ve İletişim (%50 İndirimli)"
+          },
+          {
+            "Id": "a75d1280-2919-4a6b-bec3-4ab549f26b53",
+            "Name": "Yeni Medya ve İletişim (Burslu)"
+          },
+          {
+            "Id": "683a1f01-d842-4eff-b0bb-9d75d6e88c7e",
+            "Name": "Yeni Medya ve İletişim (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "9ff624b4-a2b5-4e52-a89e-1f7c0b3ec46b",
+        "Name": "Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "f3f49f60-638b-4b3b-8731-43a992bfa207",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "5199c237-225b-460f-807e-975f794b260e",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7d43f329-e6de-4f87-956a-2e55e212379f",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "240606b3-32e2-494b-9d5d-3d2af0080415",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "4f0cae0d-971c-489c-be77-6037186d996d",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "3f071eb8-12fa-4acd-a294-6d8a8db849a7",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "6614d12c-d6ed-486e-b528-3a892e2c366c",
+            "Name": "Endüstri Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "b33aadbf-c419-4fca-8530-2f83f21666d8",
+            "Name": "Endüstri Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "1af4bb9a-4878-4060-90d1-40b52001e7a3",
+            "Name": "Endüstri Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "cc7f02e1-d797-44a3-ab4f-ae3dc2448970",
+            "Name": "Enerji Sistemleri Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "9d9cc7a3-0261-4aa9-839d-f32d45d2291c",
+            "Name": "Enerji Sistemleri Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "e793ed26-ddac-4230-acb5-3460c7b0b60a",
+            "Name": "Enerji Sistemleri Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "a9e7e3f0-178c-4ee3-83f0-e6aecd1c0714",
+            "Name": "İnşaat Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "6bc4a94a-1195-4d1a-b18b-bed738b7ae59",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "d87abb75-4fc2-47f8-9405-94a6f016214c",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "4dd9483d-63c7-4d57-94a2-7f02bc9ff810",
+        "Name": "Denizcilik ve Ulaştırma Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "c5bce19e-24b4-4e57-b9b1-4a291875874d",
+            "Name": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8a03b55b-0654-4a7e-8c2e-f635e9f7ba4b",
+            "Name": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "e795c3e1-db08-4149-9675-53dccc899f30",
+            "Name": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "ba94c27d-ceb7-407a-8aac-66a43717683b",
+            "Name": "Lojistik Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "d8f2150b-aa1c-4f5e-9280-69cc656f6de6",
+            "Name": "Lojistik Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "ea45656e-9793-4fd1-afd9-755a46aefb57",
+            "Name": "Lojistik Yönetimi (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "71ee2dbe-9189-4efc-9679-ba048a39e3ff",
+        "Name": "Hemşirelik Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "5dfc00c0-b48e-445f-99e1-775599222cb2",
+            "Name": "Ebelik (%50 İndirimli)"
+          },
+          {
+            "Id": "82642ddb-a271-47bf-9c6e-0af0349af724",
+            "Name": "Ebelik (Burslu)"
+          },
+          {
+            "Id": "ec0fcf21-4f6e-4bc8-a4c5-9d81fc722cf9",
+            "Name": "Ebelik (Ücretli)"
+          },
+          {
+            "Id": "f7c95126-b7ae-4110-8a49-fa3e0e67b97a",
+            "Name": "Hemşirelik (%50 İndirimli)"
+          },
+          {
+            "Id": "a9b0b208-bda7-45a9-b8d3-e21a324faa7e",
+            "Name": "Hemşirelik (Burslu)"
+          },
+          {
+            "Id": "495a53aa-9bea-4a4f-91a9-0adc482110f1",
+            "Name": "Hemşirelik (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "9ac14c01-0aab-466a-8744-fe6263751134",
+        "Name": "Eczacılık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "b6c52e87-b07e-438c-95d5-579352708b32",
+            "Name": "Eczacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2f7a1e06-225d-4905-a1d2-4f44c9b71b65",
+            "Name": "Eczacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "0b0a38b4-8231-43f4-8940-873ea4b764fc",
+            "Name": "Eczacılık (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "69e963af-9c6b-405b-a9a9-2ab8cf722010",
+        "Name": "İşletme Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "769e9693-e896-46fd-b902-c3cd05e5162b",
+            "Name": "Ekonomi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "09239933-314c-4fa3-9446-cf28dcf26dda",
+            "Name": "Ekonomi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "19bf8a92-b2c0-4f40-b374-4c6b239f5618",
+            "Name": "Ekonomi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "988c9ac3-4be7-45e1-9518-431ec850f6ff",
+            "Name": "İnsan Kaynakları Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2d258326-5a6b-428a-9827-e8272b0a0aac",
+            "Name": "İnsan Kaynakları Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "375218ce-f4cf-4047-8193-f4a6b75f8f5c",
+            "Name": "İnsan Kaynakları Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "99b2b662-a09c-4e75-b1b7-5f9d2e08b6da",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "d6c014a2-1f3f-462e-aac5-65e20d730e6f",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4fee7594-d415-4541-8129-d49002430078",
+            "Name": "İşletme (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "dfbf3122-1a60-48a6-a582-695910a2b9eb",
+            "Name": "Sigortacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "a09a36fe-f7f5-470e-903b-5d3ff66e7ea9",
+            "Name": "Sigortacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "b382e62d-76cf-4a8a-826d-0667c28142fc",
+            "Name": "Sigortacılık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "9c9e63a6-cca3-4af1-8037-ddcb0055fcc4",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e2994e8a-e5ae-4a91-9828-d1fb74e47133",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "268a8ea3-aa4e-438a-8901-5a66b6ca4117",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "05eae387-c4d1-4609-9443-cb98a8616a21",
+        "Name": "Uygulamalı Sosyal Bilimler Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "59e1db3b-bb07-4032-b61a-c0d42de2cc79",
+            "Name": "Finans ve Bankacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "83148f2e-0caf-4c2c-825a-4e6c613a4b01",
+            "Name": "Finans ve Bankacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "dd42729a-1fa9-4ea6-8132-0629572a9549",
+            "Name": "Finans ve Bankacılık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "a20e89be-f5bd-4e29-9cf7-35048c207ed8",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f3ad6354-8e30-4f10-9e6b-e0c3de041744",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "c3c785f4-cf27-4927-ac59-9a9fe07c2c84",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "c21660a8-b0b7-4ff0-bc3b-d83fc425dadb",
+            "Name": "Muhasebe ve Finans Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e20e37b5-b20c-4d56-b0e6-b6f5c10ff576",
+            "Name": "Muhasebe ve Finans Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7c46a0b4-fd04-4671-ae6c-8f5157bd3139",
+            "Name": "Muhasebe ve Finans Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "ac8c799c-ee84-45da-a2ae-84f2cf2e253c",
+            "Name": "Pazarlama (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "1f6e0672-1f1c-4166-a3f7-8d6c29d50e86",
+            "Name": "Pazarlama (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "af71b84b-0bf7-4221-81b4-3dfe19abe161",
+            "Name": "Pazarlama (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "f0f75cd9-bece-4628-b829-62024dca2906",
+            "Name": "Turizm İşletmeciliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2eff3f7e-1955-441e-81e1-452a69cedb63",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "ee2bb68c-b650-44f5-a8f4-549836fb7940",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "c8fd5ee0-9252-4e5a-af25-6f7a5eb8bae3",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ce4ca0e9-aa27-440a-95bd-9de45dae2a63",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7feb7ca7-5f3e-430b-b550-cc081a90ed4e",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "537534c2-a260-4b68-8521-35c8b5ab3e62",
+        "Name": "Havacılık Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "4cdc95cc-4919-4a1f-a995-84a7ee7d9f05",
+            "Name": "Havacılık Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "c33dd2e4-3e5d-4058-a209-c54bdad85227",
+            "Name": "Havacılık Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "c1ac9bd5-c1b4-4c03-a714-1ca5ef758007",
+            "Name": "Havacılık Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "c781cd0a-e344-4ce8-b270-4f7ac7a0de70",
+            "Name": "Pilotaj (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "b889b544-ee85-49e8-a472-7ca578d3933a",
+            "Name": "Pilotaj (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "ef00085c-992f-46bf-a3f9-b1126fbf6870",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "73bce371-cbd7-4e99-94d5-7be50d8a6219",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "d6e7eb6a-9329-41da-90b7-458957b23e39",
+            "Name": "Hukuk (Burslu)"
+          },
+          {
+            "Id": "62c218fa-5ee7-4882-a6fe-1e40ce8402a0",
+            "Name": "Hukuk (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "8a0d6b74-f85f-414e-9316-8313b3f7f28c",
+        "Name": "Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "45b39435-4a78-431d-8f4a-6c7ba6cac417",
+            "Name": "İç Mimarlık (%50 İndirimli)"
+          },
+          {
+            "Id": "18c691f5-b82a-4653-ae96-62a0ac3f9a36",
+            "Name": "İç Mimarlık (Burslu)"
+          },
+          {
+            "Id": "b9283ed1-aedb-42ea-96d0-4a1158901881",
+            "Name": "İç Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ed934080-275b-4d72-8072-f3a8c27abe65",
+            "Name": "İç Mimarlık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "997e391e-3e1b-4d31-84a6-c859e684a788",
+            "Name": "İç Mimarlık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "b555894f-e99b-4c44-ada8-4673f0d43998",
+            "Name": "İç Mimarlık (Ücretli)"
+          },
+          {
+            "Id": "ceea3ddd-2b8e-4964-95a2-66b10b24e602",
+            "Name": "Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2b0267fb-e79a-4b93-a13c-32008fca628a",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5ee37c34-98a2-4d74-9927-478a96add63d",
+            "Name": "Mimarlık (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "118c7b8b-db3a-40d8-bf03-e0fc7cf3d1d7",
+        "Name": "Eğitim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "c60615e5-989a-48a5-bc24-08bc7332d4e5",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "3276c112-d616-4a3f-8563-455011470837",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "52cccae4-1099-4c28-8309-cc390d1c733d",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "04ec0a88-fbd4-42e0-b949-7185f70012d0",
+            "Name": "Okul Öncesi Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "68fc9b44-9bad-43ba-8f64-db6dee191e8b",
+            "Name": "Okul Öncesi Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "59fd705b-4e37-44c7-80e7-a3f2d1805279",
+            "Name": "Okul Öncesi Öğretmenliği (Ücretli)"
+          },
+          {
+            "Id": "26a669b4-4bdb-46a7-8d33-29cc68789f91",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "103593da-a4e2-42d0-a9d7-8e8e00c3da05",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Burslu)"
+          },
+          {
+            "Id": "8898d802-45be-4cc9-bd7f-a8a60a4550d9",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Ücretli)"
+          },
+          {
+            "Id": "8d059fee-97b5-4db1-8d69-8533b4a0bb5f",
+            "Name": "Sınıf Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "00ee1de7-4da3-44bc-9490-a4016e8cbef4",
+            "Name": "Sınıf Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "51c7c0db-e603-48c9-a45c-ed4c735213a0",
+            "Name": "Sınıf Öğretmenliği (Ücretli)"
+          },
+          {
+            "Id": "7bfc11c2-59a9-462d-ab0a-3829836a96a9",
+            "Name": "Türkçe Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "39582368-a856-4ebd-be4a-d6102a19a5d5",
+            "Name": "Türkçe Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "5ddf368e-b4ba-4f0c-b9fb-0b52cc84432a",
+            "Name": "Türkçe Öğretmenliği (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "85f80e09-95ba-4594-9551-ac45bb691449",
+        "Name": "Siyasal Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "483c9135-a46e-4cb5-bf5f-42cd6d575a00",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "3469b8b8-29d5-4465-9f8b-acb611a1d07b",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "af5e98fa-e2c2-44a0-af00-57aa545b911e",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "0ddc7311-d80d-44af-9c38-5a5e57209214",
+            "Name": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "48cdebc4-e826-494d-a678-7397d4a10abc",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7dd543a5-1593-4afa-bcd5-9884254696f1",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "68788d39-4a1a-450f-ba2e-076bbcc4242f",
+    "Name": "GİRNE ÜNİVERSİTESİ",
+    "CityId": "KKTC-GİRNE",
+    "Faculties": [
+      {
+        "Id": "da209657-1441-4c62-b747-e43e18456a62",
+        "Name": "Deniz Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "a5a57e79-eb86-4376-8e95-fb0db5a5668f",
+            "Name": "Balıkçılık Teknolojisi Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "a20dc35c-92fa-4458-b4af-c96f5273f772",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "e1277050-7b6f-4c85-9c34-5db50ba87ae2",
+            "Name": "Beslenme ve Diyetetik (%50 İndirimli)"
+          },
+          {
+            "Id": "9a4a66a9-1ecb-46a6-b65a-881278cbba02",
+            "Name": "Beslenme ve Diyetetik (Burslu)"
+          },
+          {
+            "Id": "019f2f21-250c-4a02-90ad-fae2f9cbfac3",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "383509d4-e568-4ebe-a1ee-1252ae27ccc9",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          },
+          {
+            "Id": "dd1d132e-1dd3-4933-bad9-12aca3ab4a35",
+            "Name": "Hemşirelik (%50 İndirimli)"
+          },
+          {
+            "Id": "eef85f61-ca4e-4ecf-b63a-2afbed650e8e",
+            "Name": "Hemşirelik (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "c3676dff-ea2e-45ee-982f-c22ea3013bdd",
+        "Name": "Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "b30cbe2d-791c-4227-9d70-c47f852458af",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ae9ab6b9-bcdf-4e58-9eb8-bd5cc0cafa12",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "c0b170b3-888e-4f31-82d7-09ea56d4f7e9",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f8220bf4-0750-4b27-8170-98bd7c9cb838",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "ac1c50d5-0946-4901-98b0-be2cd11345bb",
+            "Name": "İnşaat Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "9fe93efa-f237-4316-93e8-33456a085abc",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7fdc61de-bce2-48e4-b0f5-841e4d2faf4c",
+            "Name": "Makine Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "a3c76f82-46a8-4740-b454-1f253ffb90b2",
+            "Name": "Makine Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "953b534f-4307-4a1d-8d23-765f468d6cfe",
+            "Name": "Yazılım Mühendisliği (%50 İndirimli)"
+          },
+          {
+            "Id": "24d280e5-2412-4460-b542-2132dad0908f",
+            "Name": "Yazılım Mühendisliği (Burslu)"
+          },
+          {
+            "Id": "f4d9607a-98cc-4f7b-a1b5-e99248bd3e23",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "39ed01c6-8ebf-493a-81a6-61c3f9b62051",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "a56f909b-d437-40c6-8443-94a9231bd951",
+        "Name": "Denizcilik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "b118f469-540e-41e2-9875-bc93dacc6fcd",
+            "Name": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "15d9a72d-686f-4bc2-aa0e-41cf8ddddcac",
+            "Name": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "187bc3b2-1b4e-4ccd-b3ff-8fa678bc4060",
+            "Name": "Gemi Makineleri İşletme Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f7c8dc7a-9de1-425b-b99c-27cdca0d0e99",
+            "Name": "Gemi Makineleri İşletme Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "c1704c70-b308-45db-839d-5edb5879b973",
+        "Name": "Deniz İşletmeciliği ve Yönetimi Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "0d405b80-4301-4c89-bf11-0d921aa42d33",
+            "Name": "Denizcilik İşletmeleri Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "eb27b4e2-80a0-48e0-b49f-e75bbc0e33ec",
+            "Name": "Denizcilik İşletmeleri Yönetimi (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "5fc51d3f-c68e-49ec-b062-c4e08b3990ba",
+        "Name": "Diş Hekimliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "e3a1cf93-c949-4764-aec3-8e1102fec5b9",
+            "Name": "Diş Hekimliği (%50 İndirimli)"
+          },
+          {
+            "Id": "81bf4ea2-432e-4f08-b133-89a0a5b314d4",
+            "Name": "Diş Hekimliği (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "9592bc46-0a9b-4eda-b3ab-82b9bcba4620",
+        "Name": "İktisadi ve İdari Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "c85840e1-8b69-46bf-97d8-f90c9415a4ae",
+            "Name": "Finans ve Bankacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "82d892fa-696b-4c46-8933-45c97635f2fa",
+            "Name": "Finans ve Bankacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "2c29b08b-b979-470d-a196-0f9975782fde",
+            "Name": "Lojistik Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "5f13e00b-e1ec-485e-b546-857e9620caaf",
+            "Name": "Lojistik Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "b71667ac-d1fb-4bdf-aa81-c791dc84190a",
+            "Name": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ef68d5f7-62b3-4716-8569-b0d3ff432027",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a1a5f449-074a-4820-9f78-5fb3d2bb426b",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "6a2dc701-ff28-472b-bb38-790bf66bda72",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "00e582f5-2be6-4967-ab15-eaf3926be589",
+        "Name": "Turizm Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "b2e56e21-0859-46f2-9242-c56fbac64090",
+            "Name": "Gastronomi ve Mutfak Sanatları (%50 İndirimli)"
+          },
+          {
+            "Id": "b7da3b27-f440-40e3-88eb-07be8d0d1ca4",
+            "Name": "Gastronomi ve Mutfak Sanatları (Burslu)"
+          },
+          {
+            "Id": "ab2ffe8f-602d-4c55-b4a9-76922846c9d8",
+            "Name": "Turizm İşletmeciliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "fb2801ec-afb3-4ae7-b741-f4da8faaf33f",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "2cd5446f-3bc3-4837-a4ca-da0b02313e21",
+        "Name": "Havacılık ve Uzay Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "a373c958-44a3-4f01-a882-c446e61b1d12",
+            "Name": "Havacılık Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "cc903906-2c5e-44a4-811a-ccd923f237d0",
+            "Name": "Havacılık Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4829314b-0993-42ee-9119-4cfa1cd8120b",
+            "Name": "Pilotaj (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "35052ec2-da7d-4457-b0e8-1e6c0512bead",
+            "Name": "Pilotaj (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "4f09fb83-99f2-4e8b-8e00-a8db8d7dcfb4",
+            "Name": "Uçak Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e188addf-4b03-4148-9107-a2b14b217744",
+            "Name": "Uçak Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "77809884-4f84-4592-bb5d-401023b83dc3",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "9889c981-111c-4d0b-8f7b-a52858f2017d",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "9380d21a-8c8a-4057-bb1e-2401fd37bddc",
+            "Name": "Hukuk (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "80f78755-8f63-4cb6-ad2b-d53f9e25f1b2",
+        "Name": "Eğitim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "44622fa3-fb49-4fe8-8828-1ebf851c7910",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "5891fe1f-da36-4683-a533-2edf88198ee2",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4e2584e3-28bb-4aa2-a964-83f3a21e300e",
+            "Name": "Özel Eğitim Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "fac880e3-719f-4b3c-b7f2-ff1ee24c5161",
+            "Name": "Özel Eğitim Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "75a89209-ed77-4650-870e-49b56fa8acfb",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "dd7ad6e3-9b7c-46b7-b5ba-4c7c05af11c1",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Burslu)"
+          },
+          {
+            "Id": "943ad7e7-1ade-473e-a0bd-ef445e4e213e",
+            "Name": "Türkçe Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "bde7de97-2168-4516-b220-b55feac6e927",
+            "Name": "Türkçe Öğretmenliği (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "61d93fa2-acab-4264-876d-f3727a98d77f",
+        "Name": "Mimarlık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "78c33eba-7b78-4497-8291-8cc89dff03d1",
+            "Name": "Mimarlık (%50 İndirimli)"
+          },
+          {
+            "Id": "26b8bb7b-5860-4835-82f5-060cb444587c",
+            "Name": "Mimarlık (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "481eae65-048e-42b0-8ffd-7e8fecd8a2c2",
+        "Name": "Fen Edebiyat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "780f98a7-a879-46a7-b227-faae56f45052",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "42849f62-fd49-41a6-a988-b0b2c9441d77",
+            "Name": "Psikoloji (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "30bebc3d-dbdd-4a4f-949b-5dec8f5f1b91",
+        "Name": "Tıp Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "1f1b0258-b763-4fa1-b4f5-89c2352ebf10",
+            "Name": "Tıp (%50 İndirimli)"
+          },
+          {
+            "Id": "aecccf92-3a2b-4882-9187-3217743dc3bb",
+            "Name": "Tıp (Burslu)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "011f3d26-4256-40c2-b26e-aca8963df043",
+    "Name": "KIBRIS AMERİKAN ÜNİVERSİTESİ",
+    "CityId": "KKTC-LEFKOŞA",
+    "Faculties": [
+      {
+        "Id": "81ab8b63-88c0-41ea-ae35-76417c99b710",
+        "Name": "Güzel Sanatlar Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "7bfecc2e-010b-41d4-9dfc-99c6461de9bd",
+            "Name": "Görsel İletişim Tasarımı (%50 İndirimli)"
+          },
+          {
+            "Id": "dbea348f-b432-43f1-a391-c00b855337d7",
+            "Name": "Görsel İletişim Tasarımı (Burslu)"
+          },
+          {
+            "Id": "d951e688-1f3d-4739-89a9-a645abced24e",
+            "Name": "Görsel İletişim Tasarımı (Ücretli)"
+          },
+          {
+            "Id": "a59a1cdf-7e5c-403c-86ce-dfd1e72c1068",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (%50 İndirimli)"
+          },
+          {
+            "Id": "d67952d2-07d1-4f41-b398-ce04864deb4d",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (Burslu)"
+          },
+          {
+            "Id": "df265f71-51f3-41ed-928d-b2dcb104de0f",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (Ücretli)"
+          },
+          {
+            "Id": "345df674-0597-46ee-906e-e85320c4c0c1",
+            "Name": "Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e689dfed-037a-4f34-aea5-63df812f71bd",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "05c255e7-c0d2-4922-9004-cbcef616e2e7",
+            "Name": "Mimarlık (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "a34550f5-55d1-4c0a-a65d-b3d25f7d605f",
+        "Name": "Siyasal Bilgiler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "3737b1e3-446c-4166-85a7-7f3b3595f10b",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "51e3ab84-5f83-4b00-8d57-f813a79cf305",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "1f8c72ad-3220-4544-8555-a27425dddc06",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "5ed7b7a8-1848-46d5-af5f-461c80e9ea95",
+            "Name": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "39a123d7-2d55-460d-b74f-a665d1c1b8cb",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "024c6bc1-3cf4-4ecc-92f0-77aab49dc268",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "d2073c4d-e636-49c6-9fe6-0d35b7d3cbfe",
+        "Name": "İşletme ve Ekonomi Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "0552f736-2689-435f-aba5-8c41b769acd1",
+            "Name": "Turizm İşletmeciliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8a19e75e-e03b-4520-84f4-22865e6bc7db",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "75cfc4b1-2a9f-4d43-b2bc-2582a0603b67",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "5676ab38-f927-4ee9-ba53-033af38aa654",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "189fe783-c858-4b05-b941-0f55ed78cf19",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "dbb09918-ea42-4fb1-bb2a-49f5eec83a12",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "bfb57582-3d23-44f0-a643-09d7ca20428b",
+    "Name": "KIBRIS BATI ÜNİVERSİTESİ",
+    "CityId": "KKTC-GAZİMAĞUSA",
+    "Faculties": [
+      {
+        "Id": "c2d3ebc3-a905-44d3-acde-9bf9de376bd7",
+        "Name": "Mühendislik ve Mimarlık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "433b7114-7fe9-4694-9d84-8e5db8fe8336",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "4cbdffe7-4d20-47c2-9ceb-9d6958cb29e6",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7fbbee88-1a02-49fb-841d-48565ca79e1f",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "82b3a1a2-149e-47c3-9311-c4a397d659a7",
+            "Name": "Bilişim Sistemleri Mühendisliği (%50 İndirimli)"
+          },
+          {
+            "Id": "c5070ef0-25b5-47b0-a7c0-cab0dab6f869",
+            "Name": "Bilişim Sistemleri Mühendisliği (Burslu)"
+          },
+          {
+            "Id": "b5b886a2-5794-4421-9299-8da765cb3b4d",
+            "Name": "Bilişim Sistemleri Mühendisliği (Ücretli)"
+          },
+          {
+            "Id": "59c96160-aa45-44da-a9df-d454696bc7db",
+            "Name": "Elektrik-Elektronik Mühendisliği (%50 İndirimli)"
+          },
+          {
+            "Id": "09e9fb36-ca66-4fc8-ad0b-905e809b5669",
+            "Name": "Elektrik-Elektronik Mühendisliği (Burslu)"
+          },
+          {
+            "Id": "ed5b885d-927b-4536-9f23-f6df110eacb7",
+            "Name": "Elektrik-Elektronik Mühendisliği (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "cc9250d9-c97f-4074-978b-27a422a2c3af",
+        "Name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "475d19f1-aebe-4fbb-9076-410cd782a181",
+            "Name": "Havacılık Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8b983332-0e30-42af-83f8-c1219f8dd400",
+            "Name": "Havacılık Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "1c946d85-7b56-469c-9202-78dfa0dc52c5",
+            "Name": "Havacılık Yönetimi (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "46e52d6c-bda1-4401-8bbb-e40931e8e83a",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "875f9c30-9644-4fa6-a36a-843e919082f6",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "ae8e5196-4884-43ad-9c2e-6ca28c09d466",
+            "Name": "İşletme (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "756fac5b-a620-4e9c-b853-ef80d0ae4b52",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "766d1fc4-1022-449e-82da-72e7b52bf3bc",
+            "Name": "Psikoloji (Burslu)"
+          },
+          {
+            "Id": "73ecc15f-8bc6-4275-a6a1-62f48f3dc7b5",
+            "Name": "Psikoloji (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "ad9ba10e-6fb9-4ba7-8788-2942c56198d8",
+    "Name": "KIBRIS İLİM ÜNİVERSİTESİ",
+    "CityId": "KKTC-GİRNE",
+    "Faculties": [
+      {
+        "Id": "11c4bc06-951a-4b50-ab89-4d879c3c16fd",
+        "Name": "Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "972395fb-db52-4a3e-882f-aa467c9d5220",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "bff541d3-21e7-4d4e-855a-eb1ed92e7937",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4d79f4e0-93f2-44ac-912e-450849635e7d",
+            "Name": "Mekatronik Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "c605a56a-a0b5-4135-be3c-2ff1361e01bd",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "05787bb4-f85b-4ebf-987d-3eb69c117e5f",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "23061dc6-8df9-4b24-96b7-2f2c8dc0dec8",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          },
+          {
+            "Id": "2c7e448e-1959-4c74-8333-c410c08b348d",
+            "Name": "Hemşirelik (%50 İndirimli)"
+          },
+          {
+            "Id": "84ad537c-8c6a-4a2e-b44b-97251a802faa",
+            "Name": "Hemşirelik (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "68e73f7b-abe8-4fa2-b6cc-d1f76bbbca7c",
+        "Name": "Turizm Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "bd35fc4d-3147-4c87-b9a1-34b152f1c1bb",
+            "Name": "Gastronomi ve Mutfak Sanatları (%50 İndirimli)"
+          },
+          {
+            "Id": "529482ce-c463-4c61-af8a-b87bbd881b07",
+            "Name": "Gastronomi ve Mutfak Sanatları (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "16ca57e8-15e2-49b9-b02f-c7c570492169",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "dd534a10-7921-432c-8d4c-d3f2049d4b0b",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "1c89e416-114a-4643-b914-639894dd39f2",
+            "Name": "Hukuk (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "fd3ca2ab-5878-49c2-98dc-7660e92b5156",
+        "Name": "Güzel Sanatlar ve Tasarım Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "6595f6ef-a99c-4c17-bdb5-19757195b00f",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (%50 İndirimli)"
+          },
+          {
+            "Id": "1992fec9-7a3a-43b5-bc06-e53bef3a0dca",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "06fea175-d136-4dd8-af10-b213dec6d998",
+        "Name": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "6e6a0b26-e802-4e11-9128-b85577aed5fb",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "ff4cd409-eb76-4d03-9b81-dfb9c7d2caf4",
+            "Name": "Psikoloji (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "f30b40a1-81bd-4e11-b6d8-3b05e6736b08",
+        "Name": "Eğitim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "cc8855af-c6eb-426b-b81b-9ff47fb7839e",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "66e99a54-8609-4f33-8d09-e8a13a5453dc",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Burslu)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "bf51a212-4f12-4717-93a3-35dcf28a2711",
+    "Name": "KIBRIS SAĞLIK VE TOPLUM BİLİMLERİ ÜNİVERSİTESİ",
+    "CityId": "KKTC-GÜZELYURT",
+    "Faculties": [
+      {
+        "Id": "5f529238-e9ac-453f-8c03-4b9128f8c9e3",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "5b79fb29-aee3-48bb-b096-c38967f19007",
+            "Name": "Beslenme ve Diyetetik (%50 İndirimli)"
+          },
+          {
+            "Id": "d90829ce-e25b-4e22-b7a1-abdf7c2d3334",
+            "Name": "Beslenme ve Diyetetik (Burslu)"
+          },
+          {
+            "Id": "fd8cd783-8582-454f-8ae0-3615b61e7973",
+            "Name": "Çocuk Gelişimi (%50 İndirimli)"
+          },
+          {
+            "Id": "7f795bbe-18c4-43cc-ab3a-257207659823",
+            "Name": "Çocuk Gelişimi (Burslu)"
+          },
+          {
+            "Id": "a4b3a141-261d-41f0-b536-1fcf8ef76a18",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "a6295207-a502-4795-877d-6b5a19b92100",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "095eaab6-f979-4dae-bc17-4d1760c86dcc",
+        "Name": "Diş Hekimliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "ee66d6fd-5982-4df7-9df3-dc13d27a22f7",
+            "Name": "Diş Hekimliği (%25 İndirimli)"
+          },
+          {
+            "Id": "0dedf43c-37b8-48d6-a1ec-3be6f6307839",
+            "Name": "Diş Hekimliği (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "aa3cbe78-4eb1-447e-8e9e-71aea5dda2e8",
+        "Name": "Sosyal ve Beşeri Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "c678dc59-a062-4c16-8a6e-d33a8b524c06",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "e16a37bf-d0d9-464b-aafe-dc3c0d90db5a",
+            "Name": "Psikoloji (Burslu)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "f00bcd84-6f8e-4036-b78e-c018734aae69",
+    "Name": "LEFKE AVRUPA ÜNİVERSİTESİ",
+    "CityId": "KKTC-LEFKE",
+    "Faculties": [
+      {
+        "Id": "ec02f1f1-f7f7-4ae3-a400-b8ca2e1085e6",
+        "Name": "Tarım Bilimleri ve Teknolojileri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "a0fabac9-85ae-41e8-9222-eb8cff65baec",
+            "Name": "Bahçe Bitkileri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "78994cf1-f6e6-4994-856e-a7e5f01240bc",
+            "Name": "Bahçe Bitkileri (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "5a548c9c-4dd9-45e9-ac1a-e5f904089d82",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "78cd97bf-6e26-443e-8842-5adeb6cb7bf4",
+            "Name": "Beslenme ve Diyetetik (%50 İndirimli)"
+          },
+          {
+            "Id": "0b80c1ee-87ae-4eea-9ae7-291c99f46540",
+            "Name": "Beslenme ve Diyetetik (Burslu)"
+          },
+          {
+            "Id": "2292e90c-7d61-40b7-a86a-578a9ac40ba0",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "1c98be4e-363b-4da4-9a3d-f84a523525fc",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "84e65425-fc31-4c53-8fdc-652b0a73cf2f",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "337d11e4-8e34-431a-a6df-47760421e5b5",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          },
+          {
+            "Id": "bc115ef6-df38-4f5b-a1f9-6bcb97c88329",
+            "Name": "Fizyoterapi ve Rehabilitasyon (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f65c7114-65a6-4830-ad51-4e3f7f6ec42c",
+            "Name": "Fizyoterapi ve Rehabilitasyon (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5401c0e0-7c7a-44f0-80e6-1f5d0629d091",
+            "Name": "Sağlık Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ec5e6002-9797-44dd-bc70-dffbe8315f41",
+            "Name": "Sağlık Yönetimi (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "623d61ec-f89e-4b07-a0cb-cc830282ac62",
+        "Name": "Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "14550233-d86a-46d1-9dfd-8d29bfdc7ef6",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ffa7cc5d-d080-4218-865d-9994e3237a46",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "4e2f55d6-d35a-4afb-98b1-ea80e271dc70",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "0be77415-0370-4680-9b44-df7b10a4c66c",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "65adff3d-de9b-4feb-b3f9-9dd8aeca4c9f",
+            "Name": "Elektronik ve Haberleşme Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "13f5075a-55a5-48fb-a178-420e2cd5f6b0",
+            "Name": "Elektronik ve Haberleşme Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "cbc19241-9ad9-44c5-a777-8bb0afd1235e",
+            "Name": "İnşaat Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "0af60626-3c8c-4599-9188-e803f00e2bcb",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "c1539fba-2685-4caa-b3a9-dda5c9ca4d35",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "9c0cad7b-81e2-44a6-a25e-f369aceaa7f7",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "3d8b794e-0dec-4b4f-84b1-ef530c4cecf2",
+        "Name": "Uygulamalı Bilimler Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "19caaa30-c481-47f5-b136-fe954a12dcff",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "9fa6f3c1-0fcc-4e38-9ef0-5fdc2471bc64",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "20dd1f95-dc2d-47b5-9212-39fb9ca6d138",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "1c375af3-b616-4878-97c5-0daa0ef6ed11",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "4d08dc98-ae3a-4d55-83ee-096848179eff",
+        "Name": "İletişim Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "332c29b1-90d8-40c9-9413-b47d89778053",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "145dd597-0d8e-4b41-8220-33fd9484e06f",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a8309ae8-af6d-4479-ac29-08c620ddbe11",
+            "Name": "Görsel İletişim Tasarımı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "280e32e4-22c0-4c02-bcf0-9d6f529b8448",
+            "Name": "Görsel İletişim Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "af791e8e-aa90-4684-bfd7-44b930282df2",
+            "Name": "Halkla İlişkiler ve Reklamcılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e275e558-d481-48b3-a42e-86168a36c11e",
+            "Name": "Halkla İlişkiler ve Reklamcılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "47e409ad-a22b-4022-b4a9-0052511fbfe4",
+            "Name": "Radyo, Televizyon ve Sinema (%50 İndirimli)"
+          },
+          {
+            "Id": "dfc5436e-1a80-4c01-a3b7-b6d123ed5ac4",
+            "Name": "Radyo, Televizyon ve Sinema (Burslu)"
+          },
+          {
+            "Id": "5b09b612-4ecc-49fd-b1d6-d282d4ba5aca",
+            "Name": "Yeni Medya ve İletişim (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "3688b0cc-d4e7-4f81-a850-2fc0cb0174f8",
+            "Name": "Yeni Medya ve İletişim (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "48e40c33-33f9-47e7-8265-e6154dfa9e80",
+        "Name": "Diş Hekimliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "9f1ba1d1-f0ef-4597-98bf-e3d43da93342",
+            "Name": "Diş Hekimliği (İngilizce) (%25 İndirimli)"
+          },
+          {
+            "Id": "0c6459ed-5a42-4e34-afd3-5c23c06532ac",
+            "Name": "Diş Hekimliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "edddbce3-2280-4237-a1aa-bd027fcb7d92",
+        "Name": "İktisadi ve İdari Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "72a50e03-c909-4965-90c8-773131e25524",
+            "Name": "Ekonomi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "85de312e-a683-4bd6-86b5-f0fe0e4495e7",
+            "Name": "Ekonomi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "0515425b-17d2-4273-b4ab-15f0948a6d16",
+            "Name": "Finans ve Bankacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ea92ea13-ae72-4df1-973a-e29f1d20c483",
+            "Name": "Finans ve Bankacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "494f977d-ceb4-4832-bc54-c0602f595ad1",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "c2b89c43-9d0b-4704-b510-da97a4c899a6",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "b8acaf6f-433f-474b-83c2-33755dbeeea0",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f01f9ec1-7d8d-4d03-a79c-32a4634d047c",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5c8b7f6b-5583-4e0b-ad38-db26313dc27e",
+            "Name": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f637c5ce-5000-43e4-ab27-e79b31a2ad04",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "d3e3b134-bd9c-4109-83dd-7ac3f9eea6bf",
+        "Name": "Turizm ve Otel İşletmeciliği Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "ca55ba31-90b7-48b0-97ec-a012d794755a",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "7de06f45-bc99-45fd-9905-20951b91367a",
+            "Name": "Gastronomi ve Mutfak Sanatları (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7692ebc7-42cc-40be-a9b8-8c055162c1e9",
+            "Name": "Turizm İşletmeciliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "3572c1a9-3ccd-457b-9f32-a27a278d9572",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "c9a6b23d-0b2c-4042-9313-bdfb2dc90032",
+        "Name": "Hemşirelik Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "0983780c-a10e-411f-b92a-ed493d354f5b",
+            "Name": "Hemşirelik (%50 İndirimli)"
+          },
+          {
+            "Id": "88c5df6c-4a0e-43a2-8137-5ca169fcdf41",
+            "Name": "Hemşirelik (Burslu)"
+          },
+          {
+            "Id": "2495bdef-5fec-471e-89cd-1b137aef0988",
+            "Name": "Hemşirelik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "b03ad285-34fc-4867-bea3-5e190cb21e71",
+            "Name": "Hemşirelik (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "1c5bd30a-adb5-46e7-80e1-f4bad4c52855",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "ec0ca93f-5b53-4805-b459-52b4d21977a0",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "872df1b8-df38-4863-9e1f-7d301de279c9",
+            "Name": "Hukuk (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "9381ae4e-d447-40e7-8ecc-88cba1872cd2",
+        "Name": "Mimarlık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "325c250e-53cd-42a0-b3f8-fa317af21dfa",
+            "Name": "İç Mimarlık (%50 İndirimli)"
+          },
+          {
+            "Id": "b217a9d7-b5e9-4207-8d5b-fea4cbced87c",
+            "Name": "İç Mimarlık (Burslu)"
+          },
+          {
+            "Id": "e1538415-bafb-44d6-941e-b01114c086b0",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "618b65d9-b0bb-471a-90fc-ec0ee41dd099",
+            "Name": "İç Mimarlık ve Çevre Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "ce67c0ee-5b79-4055-ac45-ed6cea2f43d2",
+            "Name": "Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "428b0090-8aea-4353-bc3e-213d64d6a306",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "1cbe0e7f-eddf-41a4-909b-36978fdab7d4",
+        "Name": "Dr. Fazıl Küçük Eğitim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "6bc54d9e-f68c-4979-854e-dc98e35113ab",
+            "Name": "İlköğretim Matematik Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "8018299f-97ea-4dd4-a89c-617c9c2e5cca",
+            "Name": "İlköğretim Matematik Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "0956e7dd-658c-415a-b282-4b530bb3d390",
+            "Name": "İngilizce Öğretmenliği-Elt (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "904b63ec-416c-4b17-91b8-3de73300381f",
+            "Name": "İngilizce Öğretmenliği-Elt (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "af955d4b-faf8-4325-9c74-8fa1b190d2ef",
+            "Name": "Okul Öncesi Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "4fe6c409-8685-44c3-bf67-c7a3eaeb6fe3",
+            "Name": "Okul Öncesi Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "2816ab8a-a53f-4940-903b-2c632f81b9cd",
+            "Name": "Özel Eğitim Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "32c3f1ad-9cd2-4406-b912-dc7a38310068",
+            "Name": "Özel Eğitim Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "d43f6c5d-57f5-42f3-8648-1a7431674cda",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "14150e6a-6b04-407a-b706-56b8f9bab6da",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Burslu)"
+          },
+          {
+            "Id": "e0a3e5e8-d670-4fbf-8c72-88c620a14acf",
+            "Name": "Sınıf Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "7c996e2f-4e48-4390-a77e-dcb557c5e6f4",
+            "Name": "Sınıf Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "4927d2c3-9791-4b67-8f70-a24d2a9ebf3a",
+            "Name": "Türkçe Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "8db43b44-844c-44f3-b187-42e56c9d793f",
+            "Name": "Türkçe Öğretmenliği (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "2d7fc035-c9e1-4bdd-baf6-91f54c140408",
+        "Name": "Fen ve Edebiyat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "82a75275-1151-48cb-96f2-4ac04a612f43",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "98845ea2-ea05-43e7-84b9-02a0f763cbc0",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "cff95bec-3c83-43e1-b05b-c02e6b4a3b40",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "d2200cd7-ec9b-46b3-85a4-57b434261079",
+            "Name": "Psikoloji (Burslu)"
+          },
+          {
+            "Id": "f9484393-53fe-4443-b63a-da9dfc4e1813",
+            "Name": "Psikoloji (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "3b599933-2431-4f62-b781-21a5a86e2f56",
+            "Name": "Psikoloji (İngilizce) (Burslu)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "2e2b42c1-2f5d-4a56-8233-d448696f06c9",
+    "Name": "RAUF DENKTAŞ ÜNİVERSİTESİ",
+    "CityId": "KKTC-LEFKOŞA",
+    "Faculties": [
+      {
+        "Id": "a6e289af-cae3-4c46-b223-924b4ec5743f",
+        "Name": "İşletme ve Ekonomi Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "ac48807e-08b6-4566-8cba-a5569d046593",
+            "Name": "Finans ve Bankacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "a5ce65af-9e9f-4af7-84cf-0a2c1fe2f0b5",
+            "Name": "Finans ve Bankacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "2238f20d-328c-40a2-9853-e243a5ed142b",
+            "Name": "Finans ve Bankacılık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "a5ffbe9e-a0b2-48be-b8df-27a410809641",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "51f013a3-06fd-4263-a199-1c73ee129fb9",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "cc166889-a79a-4dd3-a9a8-ac554b829ba9",
+            "Name": "İşletme (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "2565c534-e6d5-434a-8bdd-79c1e7c7d728",
+            "Name": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "41efc716-2479-419e-9e71-e6529b1c91dd",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "e0f2d9cd-8333-4862-bfd3-30522434b68e",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "d960f18e-4403-4b09-964b-be476807ac7a",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "83c69747-0ab1-4813-a71e-acf308bd7d72",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "e9f620e5-d4c2-4fda-9329-d2aefb6205ce",
+            "Name": "Uluslararası Ticaret ve İşletmecilik (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "9c8b7d47-2a8e-4b72-b4d0-bd068f1fe8c8",
+        "Name": "Mimarlık ve Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "82d8b47e-5af4-4a24-848b-9a699f5d1ebb",
+            "Name": "Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "d6809d41-fee9-4eda-971b-3c59a07fb476",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a10b4b3c-4f31-4433-a276-fbd8d91b9a5f",
+            "Name": "Mimarlık (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "ed484f3e-0a04-4b65-a3f5-ecbfbae60ba9",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "d9dc3cfa-4f4b-48ab-89ac-5c4bf71341ea",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "35c80bf3-d873-4220-ab6a-5482872866f9",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "2e27907a-5d64-4560-94f4-5e367045f1d5",
+    "Name": "ULUSLARARASI FİNAL ÜNİVERSİTESİ",
+    "CityId": "KKTC-GİRNE",
+    "Faculties": [
+      {
+        "Id": "7d61b29f-7063-4d6a-8fc8-deab7aa0f552",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "0aefe84e-c58b-4cbb-aa3b-befd115e23df",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "61810fe4-a369-4490-9765-4e19e50214cc",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "27d44407-d162-4ac4-a0dd-c7dc1605e579",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "a76ec128-c3cc-4cb7-94b9-26fee29fdb42",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "0b83c71c-07a5-4e72-8ffb-f66f5cc7e36b",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          },
+          {
+            "Id": "b6a80ff2-fcd1-40d4-ad38-4b70c67e606d",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "e34d4994-9768-4287-aba8-74b05dd8a5cd",
+        "Name": "Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "daf16bb0-2db2-4c8e-8d5c-cd67fc1eac0e",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "911ea174-a01e-481a-bee6-1ae5cd02f5d8",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "f7e045ba-19d2-4033-a4ea-a8d201a0002c",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a6d4eaef-3ce9-4b0f-925e-16c87a983c25",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "453a37af-f3cb-4f4b-a495-407325011317",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f6ade106-a419-433e-b1c8-49d9283ac0a9",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "d0f73af6-f4be-4f5b-b53e-e52dbfa0dd15",
+        "Name": "Diş Hekimliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "f4adfcf7-d448-4ec2-815e-b23eb8044b83",
+            "Name": "Diş Hekimliği (%50 İndirimli)"
+          },
+          {
+            "Id": "03faa244-9b97-4704-a392-1be267cee09d",
+            "Name": "Diş Hekimliği (Burslu)"
+          },
+          {
+            "Id": "5f35c314-b077-4874-a962-e4d5c8dfe043",
+            "Name": "Diş Hekimliği (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "f83589ad-ab2c-43ca-862c-e39caf6a0728",
+        "Name": "Turizm ve Mutfak Sanatları Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "f8e96023-be03-4703-8353-a832cb5aff2c",
+            "Name": "Gastronomi ve Mutfak Sanatları (%50 İndirimli)"
+          },
+          {
+            "Id": "16167428-7476-44a1-8e8f-7cb91516db3a",
+            "Name": "Gastronomi ve Mutfak Sanatları (Burslu)"
+          },
+          {
+            "Id": "d06b5b88-d12c-4612-b0b3-1d3cd3f12c6b",
+            "Name": "Gastronomi ve Mutfak Sanatları (Ücretli)"
+          },
+          {
+            "Id": "ecb48304-46d7-4423-9414-024fe21cf139",
+            "Name": "Turizm İşletmeciliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "46896b3e-583b-447e-b835-8d8211546c58",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "a77d6cdb-bde2-430e-841f-6a5177d9dbef",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "845a4719-464f-4c29-9865-0b3b319a46da",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "35ea329c-2832-4aea-a9b4-ea1bc77230f1",
+            "Name": "Hukuk (Burslu)"
+          },
+          {
+            "Id": "a9baba7b-dd5f-4f43-9354-3f975b3d8205",
+            "Name": "Hukuk (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "659c2968-5158-4a02-a8d2-142c4a4add88",
+        "Name": "Eğitim Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "778e2844-16af-41e6-b64f-1e1220b581f3",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "c8753cef-6c80-4be8-ba65-a9c9521b1798",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "03c6d1f2-8ed6-4a9e-aaf7-3b9a0a2dd88c",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "311e1101-504a-4953-b0dd-655e1284c541",
+            "Name": "Okul Öncesi Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "e0d3ec6e-b922-4bcb-9701-162b6713932e",
+            "Name": "Okul Öncesi Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "bb3731af-c182-4704-a35c-c7d1fb68c3b7",
+            "Name": "Okul Öncesi Öğretmenliği (Ücretli)"
+          },
+          {
+            "Id": "39d0af90-3657-45da-a34b-d86ff86b234d",
+            "Name": "Özel Eğitim Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "b981bbd0-b85a-4c49-a413-cdfb10bfacd1",
+            "Name": "Özel Eğitim Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "f66ccd9f-d793-4312-8c29-62b50364f0a6",
+            "Name": "Özel Eğitim Öğretmenliği (Ücretli)"
+          },
+          {
+            "Id": "a14a9b07-22ef-4c7d-9cd6-5b0cd80d244e",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "02d55019-5fbd-44c7-8cf0-464d6e67f966",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Burslu)"
+          },
+          {
+            "Id": "a017dff9-e4a9-485d-be75-626e11bbfb42",
+            "Name": "Türkçe Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "bfc7cc7b-bd0e-40ca-84fa-044182c428d8",
+            "Name": "Türkçe Öğretmenliği (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "7aa61223-d169-473a-a07f-d7f9f20d5fe5",
+        "Name": "İktisadi ve İdari Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "eddd71ae-621f-4336-bb00-1d33b8f2d38f",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ff2ce26e-2000-4bfc-84cb-cc74015ee5d0",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "94e3642b-f6d6-4c58-bc6a-702dee0fecb4",
+            "Name": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "178a61e6-4d07-44ae-bfeb-e3302b102e8c",
+            "Name": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "70d631c7-7ba8-4a3f-8b84-f5ee6297b64a",
+            "Name": "Uluslararası Finans ve Bankacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "9f2e5088-010b-46ec-9218-b2ed86d1fe3c",
+            "Name": "Uluslararası Finans ve Bankacılık (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "ca467038-54de-4208-8d73-92cf5bf3bb63",
+        "Name": "Mimarlık ve Güzel Sanatlar Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "728d200d-cee6-48f7-8e6c-bae3f5ab479c",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "69ce0454-719d-478f-a758-6b3d53bdbcde",
+        "Name": "Fen-Edebiyat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "32e26cb2-cd55-416f-abed-864d9c38f61d",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "07173b47-0914-469c-b838-8ab7b22352a9",
+            "Name": "Psikoloji (Burslu)"
+          },
+          {
+            "Id": "511e6faf-17e1-49fe-86e7-83de2a361671",
+            "Name": "Psikoloji (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "1f208c3a-d9d1-4a13-85a5-23db9ca7af1d",
+            "Name": "Psikoloji (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "eaa1f9ec-1183-4623-8771-82377aef11a8",
+            "Name": "Psikoloji (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "48e1b7a5-e966-455c-a570-b58131c20069",
+            "Name": "Psikoloji (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "f3dea4d8-b481-4d28-9631-cdb07bb2d4dd",
+    "Name": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ",
+    "CityId": "KKTC-LEFKOŞA",
+    "Faculties": [
+      {
+        "Id": "25194a42-7d92-4922-9e8d-60a3a0dd372f",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "1af29550-87b7-4603-a97a-a99189768b07",
+            "Name": "Beslenme ve Diyetetik (%50 İndirimli)"
+          },
+          {
+            "Id": "f6e4029b-4563-40ab-9c25-11a7c52ef3a2",
+            "Name": "Beslenme ve Diyetetik (Burslu)"
+          },
+          {
+            "Id": "1144aa4c-fcbc-434a-a311-1c1900488980",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "3975eb03-6881-43d3-9559-77ba9d4127ae",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          },
+          {
+            "Id": "de6d41f9-28b0-4fc3-8f30-7c41e26b396a",
+            "Name": "Sosyal Hizmet (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e8fcff9c-625c-4840-96b3-3d07536361bf",
+            "Name": "Sosyal Hizmet (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "c6e88158-8e16-404b-b8ec-fdb3c2de2f11",
+        "Name": "Uygulamalı Bilimler Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "b6129a15-43d0-419a-bbd8-8d8c40a5aa9f",
+            "Name": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "7fa1e0c4-c74b-4876-958f-673b253a5832",
+            "Name": "Bilgi Güvenliği Teknolojisi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "632a2403-960c-49a1-b715-60c746f0bacf",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e789c687-03e9-4da9-b96b-41be5301a49f",
+            "Name": "Yönetim Bilişim Sistemleri (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "0a3d0b0e-7c4d-4c8a-a1b5-5f6652154a14",
+        "Name": "Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "1338f292-dc04-4276-962a-0cc20d893f69",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "6ec2886a-e1f8-4381-860b-c8c5f8a5565d",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "253f6144-05af-4d1d-b7d1-8a3038a39776",
+            "Name": "Bilişim Sistemleri Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "2ae914ed-2475-40dc-a01a-81b78f66b11f",
+            "Name": "Biyomedikal Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "687ace0c-246d-4ca3-979a-0994ae5d14da",
+            "Name": "Çevre Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "1af31e6c-caf7-46d4-82b7-e5293347b893",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ae6b17c3-458e-4170-8c2c-81548f8e3223",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5a0d8c12-360b-4224-a9ea-8608955776fc",
+            "Name": "Endüstri Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "d8faca5f-aa71-4291-b31a-d3f0d2c2146c",
+            "Name": "Endüstri Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "8b2f2ebb-ca19-4e2a-8eea-915e6b5541a3",
+            "Name": "Enerji Sistemleri Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "ea3e5ba4-e614-404d-b45e-e53f13767638",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "e7851c4e-ac43-4737-aae7-d234677a0c7b",
+            "Name": "Makine Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "92e1e760-518f-473e-a636-a2dc4fea4d32",
+            "Name": "Mekatronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "9c470192-dfb0-4ab8-908e-a2938d42f117",
+            "Name": "Mekatronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "c3a75bd4-fb5b-422d-9caf-a55f9e03697d",
+            "Name": "Petrol ve Doğalgaz Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5df771e0-14dc-4848-baf8-62ff0aa8b6f7",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f7968d57-318c-47a4-97d4-111b18187fe0",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "cb69e471-24da-4a0b-8e98-5b198d5c1387",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "3e9a3e7d-0b2c-40ce-b6c7-d1b66204cd9f",
+        "Name": "Tarım Bilimleri ve Teknolojileri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "97194c03-d690-487f-8ec8-86cc93245c7d",
+            "Name": "Bitkisel Üretim ve Teknolojileri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "37f57267-9d09-4386-a4bb-22ee31687b23",
+            "Name": "Bitkisel Üretim ve Teknolojileri (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "7f1bf278-ea1d-4970-9627-1039e655f823",
+        "Name": "Sağlık Bilimleri Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "4dd5ac79-a224-4910-91ee-59a23f373c09",
+            "Name": "Çocuk Gelişimi (%50 İndirimli)"
+          },
+          {
+            "Id": "09bbc56e-ad3d-44c5-bf64-50e3e9923c91",
+            "Name": "Çocuk Gelişimi (Burslu)"
+          },
+          {
+            "Id": "74e952ab-7a45-430a-9439-b41b2d302818",
+            "Name": "Hemşirelik (%50 İndirimli)"
+          },
+          {
+            "Id": "8f41d1e5-37fa-4481-bce2-83e93edc6b41",
+            "Name": "Hemşirelik (Burslu)"
+          },
+          {
+            "Id": "de59daa5-3f98-4df1-8ede-d987c4841eea",
+            "Name": "Hemşirelik (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "09a9e04b-c825-456b-9fa6-628626fb3b7d",
+        "Name": "İletişim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "b9a683c4-fa3c-434a-ac0b-7aa71cbbe408",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "699de11f-1df9-497b-b6f2-d2be8f297e4a",
+            "Name": "Dijital Oyun Tasarımı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "eb75abd0-82e3-4756-a01c-89466f005713",
+            "Name": "Halkla İlişkiler ve Reklamcılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "1131353a-27ca-4024-9e48-0c2e18b03302",
+            "Name": "Halkla İlişkiler ve Reklamcılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "373994e6-b904-4f2e-ae2e-88e92fbfc945",
+            "Name": "Radyo, Televizyon ve Sinema (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2ac56a10-6df8-4e88-8e8a-4646d0ae73b1",
+            "Name": "Radyo, Televizyon ve Sinema (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "c401b241-0856-4cdb-8197-7e2e3e406571",
+        "Name": "Diş Hekimliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "490c2bb4-ef38-466b-bee4-ff3b887b3af1",
+            "Name": "Diş Hekimliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "332d1032-26d4-44b8-9552-b62609ab90c6",
+            "Name": "Diş Hekimliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "c37233cb-db30-451f-a0d2-9ebbd355c8ac",
+            "Name": "Diş Hekimliği (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "75aed2a0-41ed-469b-8c16-da50d9507650",
+        "Name": "Eczacılık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "552eceac-4d37-48e9-90de-caab9690e263",
+            "Name": "Eczacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "286c59b8-4364-44b9-8e1b-2e04305a0e54",
+            "Name": "Eczacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "9ddda7b2-591a-4e46-bdf5-4c9681347736",
+            "Name": "Eczacılık (İngilizce) (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "fa14a374-6a2e-438a-b3c5-b27921e79c9d",
+        "Name": "Turizm ve Otel İşletmeciliği Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "e21135be-9487-4b35-af46-f50e7bf1b048",
+            "Name": "Gastronomi ve Mutfak Sanatları (%50 İndirimli)"
+          },
+          {
+            "Id": "89affa08-4d2f-4b0d-b4cd-062e0190b4a2",
+            "Name": "Gastronomi ve Mutfak Sanatları (Burslu)"
+          },
+          {
+            "Id": "82fa4dad-9358-4cdb-9faf-581a93676dd0",
+            "Name": "Turizm İşletmeciliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2ba9f6d8-36f7-4b9b-8c3b-07a92f506f0c",
+            "Name": "Turizm İşletmeciliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "db90c0af-7bae-437c-b33e-784bdf2a52d2",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "59aefce6-a980-49eb-aa7b-9fd6e4f7ad91",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "9c827967-4649-4368-9d1a-396fadb09e7e",
+            "Name": "Hukuk (Burslu)"
+          },
+          {
+            "Id": "4850b26a-4bd3-4e79-8473-edfcf0dea6bf",
+            "Name": "Hukuk (Ücretli)"
+          }
+        ]
+      },
+      {
+        "Id": "ff1c9a41-3f6f-42a1-b343-70d3d4d30c6e",
+        "Name": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "7990290e-95e6-4012-9fd4-5e2693b2927d",
+            "Name": "İç Mimarlık (%50 İndirimli)"
+          },
+          {
+            "Id": "fcfc7edb-1586-499f-8872-e9805d97d3e6",
+            "Name": "İç Mimarlık (Burslu)"
+          },
+          {
+            "Id": "c707110d-82e9-4395-b791-4b9fdf381a8f",
+            "Name": "İç Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "d2a7fdce-9fa2-441c-8be7-66d839ebaa62",
+            "Name": "İç Mimarlık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "5d07d597-4b28-4b65-b5c5-b4abc8bdf914",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "44e6f91c-eab1-403d-8809-202a2cca88ab",
+        "Name": "Eğitim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "5443fcf5-de98-4c15-be98-d412cf5995c9",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "2ac7112b-26a4-433d-9101-7c0e192ed0b9",
+            "Name": "İngilizce Öğretmenliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "34aa2a5e-19ea-4ea8-a54f-061a66f95f6b",
+            "Name": "Okul Öncesi Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "46ba97ca-52ec-4a7c-a874-64209dffee0a",
+            "Name": "Okul Öncesi Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "9b934888-2ea4-4a66-91a5-99f32a3a42a4",
+            "Name": "Özel Eğitim Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "a62dff6a-7836-484c-b819-11d187daf8aa",
+            "Name": "Özel Eğitim Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "3429527c-ae14-4406-acd5-3a8190a6a903",
+            "Name": "Sınıf Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "182d032d-bb94-4160-9bdb-53412ce2999d",
+            "Name": "Sınıf Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "7b1eea50-b6b1-4c27-b19f-c627fc941a21",
+            "Name": "Türkçe Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "bde318a1-d642-4ed8-8423-f7b36661b0ea",
+            "Name": "Türkçe Öğretmenliği (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "c39b82ec-62d6-4c18-94a4-4ddadbd2369b",
+        "Name": "İktisadi ve İdari Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "9670b240-77f8-4092-a622-51e439fec82b",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "0997ec0f-cf3a-496d-9786-136b52838cdc",
+            "Name": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "79e9cd82-10bf-45b1-8704-6bdd381a433a",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "ca72bc35-8df9-413a-a689-6c071d0dcda7",
+        "Name": "Fen-Edebiyat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "92ff3cb8-138e-47ea-ac11-2867c3208aee",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "bf400407-8191-461a-9a0a-b9f38a5d176e",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "97be0524-aaac-4aba-806e-d41fdc8487ad",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "0963900a-21ad-4015-9bab-a96a9a0899d7",
+            "Name": "Psikoloji (Burslu)"
+          },
+          {
+            "Id": "0c4c9307-aa24-4e23-be9b-3f08e986bc16",
+            "Name": "Psikoloji (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "def5d03a-e0a0-44a4-a669-a0d2cffd4a57",
+            "Name": "Psikoloji (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "03fc20e2-9840-48d7-b372-0ed8d6671d6a",
+            "Name": "Psikoloji (İngilizce) (Ücretli)"
+          },
+          {
+            "Id": "931bf2f4-0024-4ccc-8947-1f9be481656c",
+            "Name": "Psikoloji (Ücretli)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "616ce809-fe45-44ba-8fac-83a1e068829c",
+    "Name": "YAKIN DOĞU ÜNİVERSİTESİ",
+    "CityId": "KKTC-LEFKOŞA",
+    "Faculties": [
+      {
+        "Id": "c9200dd3-1c30-4c3a-aabf-816d3b0b546c",
+        "Name": "Sağlık Bilimleri Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "d47aa8a3-2ee6-4b63-9421-69060998ed47",
+            "Name": "Beslenme ve Diyetetik (%50 İndirimli)"
+          },
+          {
+            "Id": "dc96620c-972b-498d-9fc5-e2a7eeff2c62",
+            "Name": "Beslenme ve Diyetetik (Burslu)"
+          },
+          {
+            "Id": "427bc03d-3adc-4fc0-b8a5-a333aeae16d2",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8a04e1c7-1761-4b61-9980-1b30c85e6e2e",
+            "Name": "Beslenme ve Diyetetik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "7710735d-e5b7-4208-9445-71ae0d434e2d",
+            "Name": "Ebelik (%50 İndirimli)"
+          },
+          {
+            "Id": "1be36884-27e6-4eb0-ab7b-1f29e50acea5",
+            "Name": "Ebelik (Burslu)"
+          },
+          {
+            "Id": "00d0abb8-ca12-46a5-8486-1fb5ece2df15",
+            "Name": "Ergoterapi (%50 İndirimli)"
+          },
+          {
+            "Id": "5eceb314-9513-4d29-890a-7b4616ff37f7",
+            "Name": "Ergoterapi (Burslu)"
+          },
+          {
+            "Id": "829154c7-2792-403c-941c-4e524a17eedc",
+            "Name": "Fizyoterapi ve Rehabilitasyon (%50 İndirimli)"
+          },
+          {
+            "Id": "de8c1c16-a16a-4fa6-8176-5f5f9d7d4a71",
+            "Name": "Fizyoterapi ve Rehabilitasyon (Burslu)"
+          },
+          {
+            "Id": "a12dea97-c83a-425a-af70-85ca78a79c25",
+            "Name": "Odyoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "997f1719-5614-43c3-afb3-1d9ae1cc51ff",
+            "Name": "Odyoloji (Burslu)"
+          },
+          {
+            "Id": "2d1a2d19-72d6-4223-bd18-cd8257390ba2",
+            "Name": "Sosyal Hizmet (%50 İndirimli)"
+          },
+          {
+            "Id": "2408c25c-db29-4862-b942-ea86ab061eab",
+            "Name": "Sosyal Hizmet (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "a767a81c-aa51-44a8-b493-b9b3f083b4b9",
+        "Name": "Mühendislik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "0465e35d-970e-4396-87c7-f862d465eedc",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "320939c1-ae14-4ddb-b88a-a6cee564283e",
+            "Name": "Bilgisayar Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "cbffa9ab-81bf-4d48-851f-b5d1c9e95018",
+            "Name": "Bilişim Sistemleri Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "f4cf5279-b2f2-4522-92a8-5b587b4f3046",
+            "Name": "Bilişim Sistemleri Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "36877f15-ea67-47b0-9ac8-d6820b3974aa",
+            "Name": "Biyomedikal Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "88625d68-bb08-47e8-a03d-e7e99e952981",
+            "Name": "Biyomedikal Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "344f094c-e365-443b-a8bf-6aeba77f9879",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8f2991c0-b28d-4c94-a4b9-cda608647324",
+            "Name": "Elektrik-Elektronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "6f587ffc-57c0-44fb-87fe-67ed66d3f804",
+            "Name": "Makine Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "5fa356bf-e834-4365-b280-4bff20d5562f",
+            "Name": "Makine Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "3117b460-96b9-4706-abf4-8bcd50281097",
+            "Name": "Mekatronik Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "65912cac-ead3-4eb9-b725-c1864ee8d484",
+            "Name": "Mekatronik Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "dc6895db-ee4e-4cca-9620-385ae4dae0d3",
+            "Name": "Otomotiv Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "416c3d47-dab4-4bf7-b0b3-701a57b78df6",
+            "Name": "Otomotiv Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "253343d2-e529-413f-9b13-5781a828fe93",
+            "Name": "Petrol ve Doğalgaz Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "b009036a-66cc-4072-8399-7bb583a84c8a",
+            "Name": "Petrol ve Doğalgaz Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "3b9e3bbd-f8a7-456b-b213-775de0f1bb4d",
+            "Name": "Yazılım Mühendisliği (%50 İndirimli)"
+          },
+          {
+            "Id": "5ad6df8b-8fd8-4c67-beeb-ab9278135cc3",
+            "Name": "Yazılım Mühendisliği (Burslu)"
+          },
+          {
+            "Id": "43d647f1-e90b-48a1-894f-8014ec15ee00",
+            "Name": "Yazılım Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "323c551b-ca36-4b8a-88b8-34dce1ee37a7",
+            "Name": "Yazılım Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "fed32a65-f35d-407d-9c5d-54c7cc46d791",
+        "Name": "İktisadi ve İdari Bilimler Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "bb4a61fc-ff02-4c3c-8f22-fb16978d2ebb",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e1eca4ee-887d-4bd3-8b1f-466835946c67",
+            "Name": "Bilişim Sistemleri ve Teknolojileri (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "20221059-c797-4bed-85ab-13dcdfd29f90",
+            "Name": "Ekonomi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "043e12be-9cf3-4167-a5b1-2939561f5791",
+            "Name": "Ekonomi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a1e19d95-9b4d-4ef3-819d-2608b8d6f01a",
+            "Name": "Finans ve Bankacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "08dfbd53-e919-4b2d-921c-c00085285e9f",
+            "Name": "Finans ve Bankacılık (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "a52b0a43-4f28-49cc-82a5-e48ab1397b97",
+            "Name": "İnsan Kaynakları Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "112f3776-46c1-412c-81a0-ff1410fe8ddc",
+            "Name": "İnsan Kaynakları Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "362f577a-123a-498e-8be5-aa01dba9b179",
+            "Name": "İşletme (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "c53d28ae-e17f-41fb-b85b-4650e4a53fc4",
+            "Name": "İşletme (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "97da34d4-2863-49bc-b8ec-42a239df03f7",
+            "Name": "Pazarlama (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "40c644ce-8c62-4e3f-b5f6-dbd121c007f2",
+            "Name": "Pazarlama (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "50e3bb32-339a-4490-a8b2-b58ea1cdd220",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (%50 İndirimli)"
+          },
+          {
+            "Id": "db083e50-5847-4c09-ab4f-14b3f01b1307",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (Burslu)"
+          },
+          {
+            "Id": "ee176826-ffc6-4925-a751-b48263f74b64",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "db1a89c0-d84c-4bad-a5d4-45df1a46755f",
+            "Name": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "db001f38-4805-4a9c-b622-0f5124347c0f",
+            "Name": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "06c54a60-3235-461d-aeff-6bb43ccbf7a0",
+            "Name": "Uluslararası İlişkiler (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "b02aa43f-488b-4d40-a48b-bf2b7139e179",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "e471e85b-3b8a-4155-865b-f89c6bb81726",
+            "Name": "Uluslararası İşletme Yönetimi (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "c61819ca-45db-4631-a805-6108f6a18985",
+        "Name": "İnşaat ve Çevre Mühendisliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "d58df971-f897-4fea-a3f8-7a4dba752dd0",
+            "Name": "Çevre Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "a3bd476f-cf85-407d-8755-aa750f0597ff",
+            "Name": "Çevre Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "394541c3-8e16-4908-a501-b9ea592bf633",
+            "Name": "İnşaat Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8118e221-7f71-4404-836e-2bd79f845de8",
+            "Name": "İnşaat Mühendisliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "01d017d9-07b5-49aa-8f7e-528ac8ec3d69",
+        "Name": "Diş Hekimliği Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "36ad7a50-b920-4b79-83b4-95e2eae7d69f",
+            "Name": "Diş Hekimliği (%25 İndirimli)"
+          },
+          {
+            "Id": "719a4a66-1629-48b3-8a95-6a5c8ccd76aa",
+            "Name": "Diş Hekimliği (Burslu)"
+          },
+          {
+            "Id": "3073c7f9-d19b-481f-a2ef-56a9375bcdf9",
+            "Name": "Diş Hekimliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "fdc57052-a8f0-4303-b321-89c972ebe6df",
+            "Name": "Diş Hekimliği (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "6b3abc71-a9db-4ac0-b547-b114b689c02b",
+        "Name": "Eczacılık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "265d4a51-e059-4a97-b272-30b091b13319",
+            "Name": "Eczacılık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ea30719a-8de9-4948-baa5-ef7f981ee35e",
+            "Name": "Eczacılık (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "195673af-0ee0-4663-855e-191d91a79ea2",
+        "Name": "Turizm ve Otelcilik Yüksekokulu",
+        "FacultyDepartments": [
+          {
+            "Id": "d9d522e5-1a80-4b4f-a9e4-85565980f542",
+            "Name": "Gastronomi ve Mutfak Sanatları (%50 İndirimli)"
+          },
+          {
+            "Id": "2dd16891-a403-4ba9-8b41-78f9ecec8d88",
+            "Name": "Gastronomi ve Mutfak Sanatları (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "f3ed1cc8-4504-42bd-a069-266b13f7816f",
+        "Name": "İletişim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "b295a72d-d257-4e2e-b51e-8a9907afcc4d",
+            "Name": "Gazetecilik (%50 İndirimli)"
+          },
+          {
+            "Id": "5ffcbf17-b9b2-49f5-abab-9d3d4750a422",
+            "Name": "Gazetecilik (Burslu)"
+          },
+          {
+            "Id": "9f0ddfa3-473f-4922-acb1-89689570fbba",
+            "Name": "Görsel İletişim Tasarımı (%50 İndirimli)"
+          },
+          {
+            "Id": "06de829d-d5c6-43b7-ad38-9e4297375ed5",
+            "Name": "Görsel İletişim Tasarımı (Burslu)"
+          },
+          {
+            "Id": "403a6e67-ae08-471c-9f55-1af0c006d9c1",
+            "Name": "Halkla İlişkiler ve Tanıtım (%50 İndirimli)"
+          },
+          {
+            "Id": "99f3dacc-df8b-4a8e-9a0b-5530ca6bf368",
+            "Name": "Halkla İlişkiler ve Tanıtım (Burslu)"
+          },
+          {
+            "Id": "12279c42-0f60-4d28-902c-bd3b902a8fd6",
+            "Name": "Radyo, Televizyon ve Sinema (%50 İndirimli)"
+          },
+          {
+            "Id": "991dfb87-279a-4695-af6d-7540045d49c2",
+            "Name": "Radyo, Televizyon ve Sinema (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "4199f1f7-3cd6-4272-a723-34552bff7822",
+        "Name": "Ziraat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "318869c1-5961-43f1-b5b9-1efebc5fc2c9",
+            "Name": "Gıda Mühendisliği (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "218a6835-e3da-43d3-a165-715b8cddaf90",
+            "Name": "Gıda Mühendisliği (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "8d5a2202-becf-44a9-a1c2-8b5d4c58cfbb",
+            "Name": "Peyzaj Mimarlığı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "8c5caf7d-1d0f-4e0d-9143-864d61d8e6ce",
+            "Name": "Peyzaj Mimarlığı (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "4bc9786f-de3c-4943-a48d-b7ac1ed982e5",
+        "Name": "Hemşirelik Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "7813fb20-aac0-4a59-81af-e99ffe615f95",
+            "Name": "Hemşirelik (%50 İndirimli)"
+          },
+          {
+            "Id": "cceae437-251f-4bd9-b1ce-8cc80588fa1a",
+            "Name": "Hemşirelik (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "1d8a81d1-6c19-4cc8-9d41-96e4c5942a80",
+        "Name": "Hukuk Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "c4417264-839d-4131-86dd-2386edfd8acd",
+            "Name": "Hukuk (%50 İndirimli)"
+          },
+          {
+            "Id": "6212f0a3-51b2-4b79-a10d-5f8c502715dd",
+            "Name": "Hukuk (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "579831b6-f31c-48a7-80f4-0d214ef5d159",
+        "Name": "Mimarlık Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "43d314f9-09bd-40c6-8f22-db5723e8ca92",
+            "Name": "İç Mimarlık (%50 İndirimli)"
+          },
+          {
+            "Id": "36b501a1-b5b4-42f2-b78e-100adfc16da7",
+            "Name": "İç Mimarlık (Burslu)"
+          },
+          {
+            "Id": "bb08987d-50f1-46f7-bb30-918f97db84e0",
+            "Name": "Mimarlık (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "dd36f92a-8359-4763-b2f8-b2e1dcdbe9e1",
+            "Name": "Mimarlık (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "6631df64-7754-4bea-b079-8456b30c0edf",
+        "Name": "İlahiyat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "8b7b71cd-7ec6-405f-b289-ddfc9597c935",
+            "Name": "İlahiyat (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "ce425e9d-7f83-4bb3-8495-c20a3afbcd03",
+        "Name": "Atatürk Eğitim Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "4ac42e0f-a1ff-4a45-8d37-edab4398d974",
+            "Name": "İlköğretim Matematik Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "1e0f1fea-a682-4348-9ca1-da6422466ccd",
+            "Name": "İlköğretim Matematik Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "91d6e5c1-c4b2-47b7-9d80-ed3c391988ec",
+            "Name": "İngilizce Öğretmenliği-Elt (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "59a6a086-c199-4578-a0eb-6024671a0469",
+            "Name": "İngilizce Öğretmenliği-Elt (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "96f72c0a-66b9-463d-adad-10946df93281",
+            "Name": "Okul Öncesi Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "da4d25fe-9ee5-446b-80d9-c1cd806f78e2",
+            "Name": "Okul Öncesi Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "719ddd77-df4e-4707-b417-7cef6716ac85",
+            "Name": "Özel Eğitim Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "21b26726-f2da-4066-884c-27ec5c3fd0e7",
+            "Name": "Özel Eğitim Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "ddd0093b-5f1e-475f-abc1-ceaa67c80439",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "b8f27576-88d3-4157-b81d-f681b0b5bb4c",
+            "Name": "Rehberlik ve Psikolojik Danışmanlık (Burslu)"
+          },
+          {
+            "Id": "caaed77c-a5ae-46e7-bfdc-a2b45c4e8fe4",
+            "Name": "Sınıf Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "7b9a446d-43e4-4ad8-9b89-1f28d7ce4f5f",
+            "Name": "Sınıf Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "65879f1c-09e0-41e5-8631-a74037d02862",
+            "Name": "Sosyal Bilgiler Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "c461a523-5fa0-4d3d-ac3a-32a782cbdc75",
+            "Name": "Sosyal Bilgiler Öğretmenliği (Burslu)"
+          },
+          {
+            "Id": "9fbf35f8-29b8-468e-b6b6-23f273a40593",
+            "Name": "Türkçe Öğretmenliği (%50 İndirimli)"
+          },
+          {
+            "Id": "7fd05604-124c-4a4b-be53-0a7020e96d1f",
+            "Name": "Türkçe Öğretmenliği (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "9ef3314e-7cac-4652-9022-e18a468dd5b6",
+        "Name": "Fen-Edebiyat Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "d6fc0263-358a-4203-b90b-ea33b6f6f7da",
+            "Name": "İngiliz Dili ve Edebiyatı (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "212acdaa-08e6-499c-803b-314ff655bd4e",
+            "Name": "İngiliz Dili ve Edebiyatı (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "f8903a80-8e9f-4062-9fb4-73e5e3f65451",
+            "Name": "İngilizce Mütercim ve Tercümanlık (%50 İndirimli)"
+          },
+          {
+            "Id": "1b3f8c19-4ee9-4a82-b6ff-30fabb946386",
+            "Name": "İngilizce Mütercim ve Tercümanlık (Burslu)"
+          },
+          {
+            "Id": "ba567c43-aff9-44a0-b785-678be67caa27",
+            "Name": "Matematik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "eec5ed40-c041-4652-b0c0-cab92b3c28b2",
+            "Name": "Matematik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "1882c687-1e13-4977-9c38-e1ae2249fde4",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "ccd8bf9b-21a6-4afd-92a7-354abf91722b",
+            "Name": "Moleküler Biyoloji ve Genetik (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "ce609b21-4cc4-4ea4-b854-bd819ea4e7af",
+            "Name": "Psikoloji (%50 İndirimli)"
+          },
+          {
+            "Id": "b6f199bc-c012-4bc9-aa48-eca78144b6e4",
+            "Name": "Psikoloji (Burslu)"
+          },
+          {
+            "Id": "aa2bb12b-618d-4483-8657-20bd58b00815",
+            "Name": "Psikoloji (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "24fdab05-cb95-4436-ad15-edc43f00f3c2",
+            "Name": "Psikoloji (İngilizce) (Burslu)"
+          },
+          {
+            "Id": "111f3e71-d2c1-49cd-8dd4-ddec9cfb2f6d",
+            "Name": "Tarih (%50 İndirimli)"
+          },
+          {
+            "Id": "f99021a5-9960-4d2b-96f6-4afa0de6c848",
+            "Name": "Tarih (Burslu)"
+          },
+          {
+            "Id": "581082ff-a6a2-4dab-9649-cb6d28312faa",
+            "Name": "Türk Dili ve Edebiyatı (%50 İndirimli)"
+          },
+          {
+            "Id": "e3d67a36-a923-4af8-88c2-a7cbdc7f7843",
+            "Name": "Türk Dili ve Edebiyatı (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "3a3c779e-c92a-4824-8baf-e5bb153e42ec",
+        "Name": "Tıp Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "56a51d71-474b-424d-89db-266f39a35c88",
+            "Name": "Tıp (%50 İndirimli)"
+          },
+          {
+            "Id": "d645b114-a4be-4298-b427-3eab0c2a27cf",
+            "Name": "Tıp (Burslu)"
+          },
+          {
+            "Id": "63d27cb5-6863-4f25-8e58-992de7403f6f",
+            "Name": "Tıp (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "7488d9e2-cc49-4551-8ed6-22a93a29203f",
+            "Name": "Tıp (İngilizce) (Burslu)"
+          }
+        ]
+      },
+      {
+        "Id": "cc7bf910-6a7d-4910-964a-cc9cb75e79b0",
+        "Name": "Veteriner Fakültesi",
+        "FacultyDepartments": [
+          {
+            "Id": "018b0219-91b9-4066-b414-c3b103a99eda",
+            "Name": "Veterinerlik (%50 İndirimli)"
+          },
+          {
+            "Id": "6b751109-cf29-4f76-a909-0b9db367c500",
+            "Name": "Veterinerlik (Burslu)"
+          },
+          {
+            "Id": "3dc57518-4826-4dc1-bb13-33e51d616ef3",
+            "Name": "Veterinerlik (İngilizce) (%50 İndirimli)"
+          },
+          {
+            "Id": "922fcb1a-a069-467a-bd23-54f0b10381fb",
+            "Name": "Veterinerlik (İngilizce) (Burslu)"
+          }
+        ]
+      }
+    ]
+  }
+]
